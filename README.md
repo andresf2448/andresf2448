@@ -15,6 +15,12 @@ Me considero una persona apasionada por el conocimiento, el constante aprendizaj
 <h1 align="center"> Proyectos </h1>
  
 ## PI-Dogs
+
+![image](https://user-images.githubusercontent.com/58791994/124400484-9c1a9800-dcd7-11eb-8acc-1091b8b6514a.png)
+![image](https://user-images.githubusercontent.com/58791994/124400485-9e7cf200-dcd7-11eb-8c33-edd18f33054e.png)
+![image](https://user-images.githubusercontent.com/58791994/124400486-9fae1f00-dcd7-11eb-8d10-97c37e161ba8.png)
+
+<hr/>
   
   Quieres saber más de mí?, ¡contáctame! <br/>
 ✔ Linkedin: <a href="http://www.linkedin.com/in/andresvelasqueztrujillo">www.linkedin.com/in/andresvelasqueztrujillo</a> <br/>
