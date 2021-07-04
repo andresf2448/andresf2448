@@ -20,7 +20,7 @@ Me considero una persona apasionada por el conocimiento, el constante aprendizaj
 <img align="center" src="https://user-images.githubusercontent.com/58791994/124400541-1cd99400-dcd8-11eb-81a8-1a930984a96e.png" alt="Home" width="30%"/>
 <img align="right" src="https://user-images.githubusercontent.com/58791994/124400542-1f3bee00-dcd8-11eb-8ba2-9bb2df37bdfc.png" alt="Form" width="30%"/>
 
-<hr/>
+
   
   Quieres saber más de mí?, ¡contáctame! <br/>
 ✔ Linkedin: <a href="http://www.linkedin.com/in/andresvelasqueztrujillo">www.linkedin.com/in/andresvelasqueztrujillo</a> <br/>
