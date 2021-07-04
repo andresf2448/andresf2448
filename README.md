@@ -12,6 +12,6 @@ Me considero una persona apasionada por el conocimiento, el constante aprendizaj
 ******
 
   Quieres saber más de mí?, ¡contáctame! <br/>
-✔ GitHub: github.com/andresf2448 <a href="github.com/andresf2448" target="_blank"> <img src="./git.ico" alt="Python" width="40" height="40"/> andresf2448</a><br/>
+✔ GitHub: <a href="https://www.python.org/" target="_blank"> <img src="./python_18894.ico" alt="Python" width="40" height="40"/>github.com/andresf2448</a> <br/>
 ✔ WP: +57 314 771 02 88 (Móvil) <br/>
 ✔ E-mail: andresf2448@gmail.com <br/>
