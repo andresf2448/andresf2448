@@ -12,7 +12,7 @@ Me considero una persona apasionada por el conocimiento, el constante aprendizaj
 ******
 
   Quieres saber más de mí?, ¡contáctame! <br/>
-✔ Linkedin: <a href="www.linkedin.com/in/andresvelasqueztrujillo" target="_blank">www.linkedin.com/in/andresvelasqueztrujillo</a> <br/>
+✔ Linkedin: <a href="http://www.linkedin.com/in/andresvelasqueztrujillo" target="_blank">www.linkedin.com/in/andresvelasqueztrujillo</a> <br/>
 ✔ WP: <a href="https://api.whatsapp.com/send?phone=573147710288&text=Gracias%20por%20contactar!" target="_blank">+57 314 771 02 88</a> (Móvil) <br/>
 ✔ E-mail: andresf2448@gmail.com <br/>
   
