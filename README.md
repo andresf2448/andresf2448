@@ -2,7 +2,7 @@
 
 ### Hola! Mi nombre es Andrés Felipe Velásquez Trujillo 👋
 
-Soy desarrollador Full Stack y Matemático. Mi pasión es el constante aprendizaje de tecnologías tanto para el desarrollo web como diferentes ramas de la inteligencia artificial. Tengo conocimiento en HTML | CSS | JavaScript | Python | C | NodeJS | React | Redux | Bootstrap | PostgreSQL | Express | Sequelize | GitHub | Git | TypeScript. A actualmente me encuentro capacitándome en TypeScript y React Native.
+Soy desarrollador Full Stack y Matemático. Mi pasión es el constante aprendizaje de tecnologías tanto para el desarrollo web como diferentes ramas de la inteligencia artificial. Tengo conocimiento en HTML | CSS | JavaScript | Python | C | C++ | NodeJS | React | Redux | Bootstrap | PostgreSQL | Express | Sequelize | GitHub | Git | TypeScript. A actualmente me encuentro capacitándome en TypeScript y React Native.
 
 🧑 ¿Cómo me defino?
 Me considero una persona apasionada por el conocimiento, el constante aprendizaje de nuevas tecnologías y los nuevos desafíos. Me encanta tener nuevas relaciones, preservando la comunicación constante y asertiva. En lo personal pienso que una de las fuentes del éxito de toda actividad es la comunicación entre los equipos de trabajo. Tengo constante búsqueda del progreso tanto personal como grupal en los ámbitos que desarrollo mis actividades.
@@ -15,6 +15,8 @@ Me considero una persona apasionada por el conocimiento, el constante aprendizaj
 <h1 align="center"> Proyectos </h1>
  
 ## <a href="https://github.com/andresf2448/PI-Dogs" target="_blank">PI-Dogs</a>
+<p>Desarrollo de una SPA (Single Page Application) utilizando React para el Front End y Redux como state management. En los estilos se implementó CSS puro sin uso de librerías externas.
+La SPA consume datos de una API (The Dog API) a través de un Back End desarrollado en Node.JS utilizando Express, agregando nuevas funcionalidades a la API original. En el proyecto se pueden encontrar filtros (nombre, temperamentos, peso, nombre por orden alfabético, creados) y un formulario para la creación de nuevas razas de perros que se almacenan en una base de datos realizada con Sequelize y PostgreSQL.</p>
 <div>
 <img align="left" src="https://user-images.githubusercontent.com/58791994/124400484-9c1a9800-dcd7-11eb-8acc-1091b8b6514a.png" alt="Principal" width="30%"/>
 <img align="center" src="https://user-images.githubusercontent.com/58791994/124400541-1cd99400-dcd8-11eb-81a8-1a930984a96e.png" alt="Home" width="30%"/>
