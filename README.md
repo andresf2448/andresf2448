@@ -1,4 +1,4 @@
-![pexels-max-deroin-51415 (1)](https://user-images.githubusercontent.com/58791994/124398762-4c829f00-dccc-11eb-913b-248ca614b6e5.jpg)
+![pexels-max-deroin-51415 (2)](https://user-images.githubusercontent.com/58791994/124398821-a08d8380-dccc-11eb-990f-c45f929547b8.jpg)
 
 ### Hi there 👋
 
