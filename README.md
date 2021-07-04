@@ -13,7 +13,7 @@ Me considero una persona apasionada por el conocimiento, el constante aprendizaj
 
  <h1 align="center"> Proyectos </h1>
   
-  
+******
   
   Quieres saber más de mí?, ¡contáctame! <br/>
 ✔ Linkedin: <a href="http://www.linkedin.com/in/andresvelasqueztrujillo">www.linkedin.com/in/andresvelasqueztrujillo</a> <br/>
