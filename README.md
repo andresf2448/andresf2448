@@ -23,13 +23,12 @@ La SPA consume datos de una API (The Dog API) a través de un Back End desarroll
 <img align="right" src="https://user-images.githubusercontent.com/58791994/124400542-1f3bee00-dcd8-11eb-8ba2-9bb2df37bdfc.png" alt="Form" width="30%"/>
 </div>
 
-## <a href="https://github.com/andresf2448/PI-Dogs" target="_blank">PI-Dogs</a>
-<p>Desarrollo de una SPA (Single Page Application) utilizando React para el Front End y Redux como state management. En los estilos se implementó CSS puro sin uso de librerías externas.
-La SPA consume datos de una API (The Dog API) a través de un Back End desarrollado en Node.JS utilizando Express, agregando nuevas funcionalidades a la API original. En el proyecto se pueden encontrar filtros (nombre, temperamentos, peso, nombre por orden alfabético, creados) y un formulario para la creación de nuevas razas de perros que se almacenan en una base de datos realizada con Sequelize y PostgreSQL.</p>
+## <a href="https://github.com/andresf2448/Coca-Cola" target="_blank">Coca-Cola</a>
+<p>Desarrollo de una Landing Page responsive con temática Coca-Cola, utilizando JavaScript, CSS, HTML, jQuery</p>
 <div>
-<img align="left" src="https://user-images.githubusercontent.com/58791994/124400484-9c1a9800-dcd7-11eb-8acc-1091b8b6514a.png" alt="Principal" width="30%"/>
-<img align="center" src="https://user-images.githubusercontent.com/58791994/124400541-1cd99400-dcd8-11eb-81a8-1a930984a96e.png" alt="Home" width="30%"/>
-<img align="right" src="https://user-images.githubusercontent.com/58791994/124400542-1f3bee00-dcd8-11eb-8ba2-9bb2df37bdfc.png" alt="Form" width="30%"/>
+<img align="left" src="https://user-images.githubusercontent.com/58791994/128064128-e69b8f20-0cc8-4759-990e-950693d33e96.jpeg" alt="Principal" width="30%" />
+<img align="center" src="https://user-images.githubusercontent.com/58791994/128064294-874d627d-9119-4bb0-b81c-67bfdcfe3f4f.jpeg" alt="Home" width="30%"/>
+<img align="right" src="https://user-images.githubusercontent.com/58791994/128064311-e449ba32-b8b8-4a0d-b9a4-357b0da36c4a.jpeg" alt="Form" width="30%"/>
 </div>
 
   <hr/>
