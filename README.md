@@ -34,8 +34,8 @@ La SPA consume datos de una API (The Dog API) a través de un Back End desarroll
 ## <a href="https://github.com/andresf2448/Clima" target="_blank">Weather App</a>
 <p>Desarrollo de una SPA responsive en la cual se puede ingresar el nombre de ciudades o países para saber ciertos detalles y características de la región donde destaca principalmente su temperatura.</p>
 <div>
-<img align="left" src="https://user-images.githubusercontent.com/58791994/128620358-cf24607c-7f74-47e7-97a3-0d31dce3a1bd.png" width="47%"/>
-<img align="right" src="https://user-images.githubusercontent.com/58791994/128620386-a47e4af2-dc96-4172-96e4-3b2ba40608ca.png" width="47%"/>
+<img align="left" src="https://user-images.githubusercontent.com/58791994/128620358-cf24607c-7f74-47e7-97a3-0d31dce3a1bd.png" width="50%"/>
+<img align="right" src="https://user-images.githubusercontent.com/58791994/128620386-a47e4af2-dc96-4172-96e4-3b2ba40608ca.png" width="50%"/>
 </div>
 
   <hr/>
