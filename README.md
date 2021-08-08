@@ -38,6 +38,8 @@ La SPA consume datos de una API (The Dog API) a través de un Back End desarroll
 <img align="right" src="https://user-images.githubusercontent.com/58791994/128620386-a47e4af2-dc96-4172-96e4-3b2ba40608ca.png" width="50%"/>
 </div>
 
+<br/>
+
   <hr/>
   Quieres saber más de mí?, ¡contáctame! <br/>
 ✔ Linkedin: <a href="http://www.linkedin.com/in/andresvelasqueztrujillo">www.linkedin.com/in/andresvelasqueztrujillo</a> <br/>
