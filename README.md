@@ -2,7 +2,7 @@
 
 ### Hola! Mi nombre es Andrés Felipe Velásquez Trujillo 👋
 
-Soy desarrollador Full Stack y Matemático. Mi pasión es el constante aprendizaje de tecnologías tanto para el desarrollo web como diferentes ramas de la inteligencia artificial. Tengo conocimiento en HTML | CSS | JavaScript | Python | C | C++ | NodeJS | React | Redux | Bootstrap | PostgreSQL | Express | Sequelize | GitHub | Git | TypeScript. A actualmente me encuentro capacitándome en TypeScript y React Native.
+Soy desarrollador Full Stack y Matemático. Mi pasión es el constante aprendizaje de tecnologías tanto para el desarrollo web como diferentes ramas de la inteligencia artificial. Tengo conocimiento en HTML | CSS | JavaScript | Python | C | C++ | NodeJS | React | React Native | Redux | Bootstrap | PostgreSQL | Express | Sequelize | GitHub | Git | TypeScript | Ruby | Ruby on Rails |. A actualmente me encuentro capacitándome en TypeScript y React Native.
 
 🧑 ¿Cómo me defino?
 Me considero una persona apasionada por el conocimiento, el constante aprendizaje de nuevas tecnologías y los nuevos desafíos. Me encanta tener nuevas relaciones, preservando la comunicación constante y asertiva. En lo personal pienso que una de las fuentes del éxito de toda actividad es la comunicación entre los equipos de trabajo. Tengo constante búsqueda del progreso tanto personal como grupal en los ámbitos que desarrollo mis actividades.
