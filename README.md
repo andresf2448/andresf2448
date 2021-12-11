@@ -74,5 +74,5 @@ La SPA consume datos de una API (The Dog API) a través de un Back End desarroll
   <hr/>
   Quieres saber más de mí?, ¡contáctame! <br/>
 ✔ Linkedin: <a href="http://www.linkedin.com/in/andresvelasqueztrujillo">www.linkedin.com/in/andresvelasqueztrujillo</a> <br/>
-✔ WP: <a href="https://api.whatsapp.com/send?phone=573147710288&text=Gracias%20por%20contactar!" target="_blank">+57 314 771 02 88</a> (Móvil) <br/>
+✔ WP: <a href="https://api.whatsapp.com/send?phone=573147710288&text=Gracias%20por%20contactar!" target="_blank">+57 313 675 62 46</a> (Móvil) <br/>
 ✔ E-mail: andresf2448@gmail.com <br/>
