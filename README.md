@@ -1,11 +1,10 @@
 ![pexels-max-deroin-51415 (2)](https://user-images.githubusercontent.com/58791994/124398821-a08d8380-dccc-11eb-990f-c45f929547b8.jpg)
 
-### Hola! Mi nombre es Andrés Felipe Velásquez Trujillo 👋
+### Hello, my name is Andrés Felipe Velásquez Trujillo 👋
 
-Soy desarrollador Full Stack y Matemático. Mi pasión es el constante aprendizaje de tecnologías tanto para el desarrollo web como diferentes ramas de la inteligencia artificial. Tengo conocimiento en HTML | CSS | JavaScript | Python | C | C++ | NodeJS | React | React Native | Redux | Bootstrap | PostgreSQL | Express | Sequelize | GitHub | Git | TypeScript | Ruby | Ruby on Rails |. A actualmente me encuentro capacitándome en TypeScript y React Native.
+I am a Full Stack developer and Mathematician. My passion is the constant learning of technologies both for web development and different branches of artificial intelligence. I have knowledge in HTML | CSS | JavaScript | Python | NodeJS | React | React Native | Redux | Material-UI | PostgreSQL | Express | Sequelize | GitHub | Git | Ruby | Ruby on Rails | Solidity | Hardhat | Truffle | Web3 JS | Ethers JS | Chai | Mocha | IPFS | OpenZeppelin | Remix |.
 
-🧑 ¿Cómo me defino?
-Me considero una persona apasionada por el conocimiento, el constante aprendizaje de nuevas tecnologías y los nuevos desafíos. Me encanta tener nuevas relaciones, preservando la comunicación constante y asertiva. En lo personal pienso que una de las fuentes del éxito de toda actividad es la comunicación entre los equipos de trabajo. Tengo constante búsqueda del progreso tanto personal como grupal en los ámbitos que desarrollo mis actividades.
+🧑 How do I define myself? I consider myself a person passionate about knowledge, constant learning of new technologies and new challenges. I love to have new relationships, preserving constant and assertive communication. Personally, I think that one of the sources of success in any activity is the communication between work teams. I am constantly looking for personal and group progress in the areas in which I develop my activities.
 
 ****
 <p align="center">
