@@ -27,19 +27,20 @@ I am a Full Stack developer and Mathematician. My passion is the constant learni
 
 ## <a href="https://github.com/andresf2448/Exchange-ProyectoFinal" target="_blank">ROCKET EXCHANGE</a>
 <p>
-Se Creo una plataforma que permite conectar a las personas a la red de blockchain donde pueden intercambiar sus activos por cualquier otra clase de divisas, tanto fiats como criptomonedas. 
+I create a platform that allows people to connect to the blockchain network where they can exchange their assets for any other kind of currencies, both fiat and cryptocurrencies.
 
-
- ***Para ello utilizamos la red Stellar, ahora bien ¿Por qué red Stellar?***
+ ***For this we use the Stellar network, but why Stellar network?***
 
 <ol>
-  <li>Permite la compatibilidad entre cualquier tipo de activos.</li>
-  <li>Los costos de operaciones son muy bajos.</li>
-  <li>El protocolo en el que está basado permite la escalabilidad a futuro (en cantidad de transacciones posibles a realizar).</li>
-  <li>Es sustentable ya que no hace uso de la minería porque la considera nociva al medio ambiente.</li>
+  <li>It allows compatibility between any type of assets.</li>
+  <li>Trading costs are very low.</li>
+  <li>The protocol on which it is based allows scalability in the future (in the number of possible transactions to be carried out).
+</li>
+  <li>It is sustainable since it does not make use of mining because it considers it harmful to the environment.
+</li>
 </ol>
 
-El objetivo es acercar a las personas en el intercambio de activos, mediante una interfaz sencilla y amigable que posibilita transacciones de forma segura y rápida entre dinero y criptodivisas.
+The objective is to bring people together in the exchange of assets, through a simple and friendly interface that enables secure and fast transactions between money and cryptocurrencies.
 </p>
 
 
@@ -56,8 +57,7 @@ ROCKET EXCHANGE
 ********
  
 ## <a href="https://github.com/andresf2448/PI-Dogs" target="_blank">PI-Dogs</a>
-<p>Desarrollo de una SPA (Single Page Application) utilizando React para el Front End y Redux como state management. En los estilos se implementó CSS puro sin uso de librerías externas.
-La SPA consume datos de una API (The Dog API) a través de un Back End desarrollado en Node.JS utilizando Express, agregando nuevas funcionalidades a la API original. En el proyecto se pueden encontrar filtros (nombre, temperamentos, peso, nombre por orden alfabético, creados) y un formulario para la creación de nuevas razas de perros que se almacenan en una base de datos realizada con Sequelize y PostgreSQL.</p>
+<p>Development of a SPA (Single Page Application) using React for the Front End and Redux as state management. Pure CSS was implemented in the styles without the use of external libraries. The SPA consumes data from an API (The Dog API) through a Back End developed in Node.JS using Express, adding new functionalities to the original API. In the project you can find filters (name, temperaments, weight, name in alphabetical order, created) and a form for the creation of new dog breeds that are stored in a database made with Sequelize and PostgreSQL.</p>
 <div>
 <img align="left" src="https://user-images.githubusercontent.com/58791994/124400484-9c1a9800-dcd7-11eb-8acc-1091b8b6514a.png" alt="Principal" width="30%"/>
 <img align="center" src="https://user-images.githubusercontent.com/58791994/124400541-1cd99400-dcd8-11eb-81a8-1a930984a96e.png" alt="Home" width="30%"/>
@@ -65,7 +65,7 @@ La SPA consume datos de una API (The Dog API) a través de un Back End desarroll
 </div>
 
 ## <a href="https://github.com/andresf2448/Coca-Cola" target="_blank">Coca-Cola</a>
-<p>Desarrollo de una Landing Page responsive con temática Coca-Cola, utilizando JavaScript, CSS, HTML, jQuery</p>
+<p>Development of a responsive Landing Page with Coca-Cola theme, using JavaScript, CSS, HTML, jQuery.</p>
 <div>
 <img align="left" src="https://user-images.githubusercontent.com/58791994/128064128-e69b8f20-0cc8-4759-990e-950693d33e96.jpeg" alt="Principal" width="30%" />
 <img align="center" src="https://user-images.githubusercontent.com/58791994/128064294-874d627d-9119-4bb0-b81c-67bfdcfe3f4f.jpeg" alt="Home" width="30%"/>
@@ -75,7 +75,7 @@ La SPA consume datos de una API (The Dog API) a través de un Back End desarroll
 <br/>
 
   <hr/>
-  Quieres saber más de mí?, ¡contáctame! <br/>
+  You want to know more about me, contact me! <br/>
 ✔ Linkedin: <a href="http://www.linkedin.com/in/andresvelasqueztrujillo">www.linkedin.com/in/andresvelasqueztrujillo</a> <br/>
 ✔ WP: <a href="https://api.whatsapp.com/send?phone=573147710288&text=Gracias%20por%20contactar!" target="_blank">+57 313 675 62 46</a> (Móvil) <br/>
 ✔ E-mail: andresf2448@gmail.com <br/>
