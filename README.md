@@ -43,7 +43,6 @@ I create a platform that allows people to connect to the blockchain network wher
 The objective is to bring people together in the exchange of assets, through a simple and friendly interface that enables secure and fast transactions between money and cryptocurrencies.
 </p>
 
-
 <p align="center">
 <img  src="https://user-images.githubusercontent.com/76981775/130149215-bbae8143-9fed-46b6-80dd-d6ca04d000e1.png" width="30%" height='250px'>
 <img  src="https://user-images.githubusercontent.com/76981775/130149625-f01e6be0-6514-4c54-a6c1-948e3a4a601f.png" width="30%" height='250px'>
@@ -55,6 +54,17 @@ ROCKET EXCHANGE
 </a> 
 
 ********
+
+## <a href="https://github.com/andresf2448/system_lotery_full" target="_blank">system_lotery_full</a>
+<p>SystemLotery is a platform on the blockchain using solidity as a technology to develop smart contracts, react and ethers js for the graphical interface and MetaMask as a provider for the communication of the JSON-RPC protocol.</p>
+<div>
+<img align="left" src="https://user-images.githubusercontent.com/58791994/180840346-1cb9eecf-1708-4a74-90f0-051081a94b19.png" alt="Principal" width="30%"/>
+<img align="center" src="https://user-images.githubusercontent.com/58791994/180841668-3daa2b74-b1bb-4fcb-8e60-38fcc9e37ab9.png" alt="Home" width="30%"/>
+<img align="right" src="https://user-images.githubusercontent.com/58791994/180843460-5c2e1565-8a31-4099-b094-ed90a0d57ecf.png" alt="Form" width="30%"/>
+</div>
+<br/>
+
+********
  
 ## <a href="https://github.com/andresf2448/PI-Dogs" target="_blank">PI-Dogs</a>
 <p>Development of a SPA (Single Page Application) using React for the Front End and Redux as state management. Pure CSS was implemented in the styles without the use of external libraries. The SPA consumes data from an API (The Dog API) through a Back End developed in Node.JS using Express, adding new functionalities to the original API. In the project you can find filters (name, temperaments, weight, name in alphabetical order, created) and a form for the creation of new dog breeds that are stored in a database made with Sequelize and PostgreSQL.</p>
@@ -63,6 +73,8 @@ ROCKET EXCHANGE
 <img align="center" src="https://user-images.githubusercontent.com/58791994/124400541-1cd99400-dcd8-11eb-81a8-1a930984a96e.png" alt="Home" width="30%"/>
 <img align="right" src="https://user-images.githubusercontent.com/58791994/124400542-1f3bee00-dcd8-11eb-8ba2-9bb2df37bdfc.png" alt="Form" width="30%"/>
 </div>
+
+********
 
 ## <a href="https://github.com/andresf2448/Coca-Cola" target="_blank">Coca-Cola</a>
 <p>Development of a responsive Landing Page with Coca-Cola theme, using JavaScript, CSS, HTML, jQuery.</p>
