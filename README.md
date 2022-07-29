@@ -59,10 +59,11 @@ ROCKET EXCHANGE
 <p>A voting system is implemented on blockchain using solidity as technology for the development of smart contracts, react and ethers for the graphical interface and MetaMask as a provider for the communication of the JSON-RPC protocol.</p>
 
 <p align="center">
-<img align="left" src="https://user-images.githubusercontent.com/58791994/181675870-10487ca9-6644-440d-8c3c-dc8a6065328a.png" alt="Principal" height='250px' width="32%"/>
-<img align="center" src="https://user-images.githubusercontent.com/58791994/181675917-d60f7624-4fda-45e2-b6db-00cfa33e4df6.png" alt="Home" height='250px' width="32%"/>
-<img align="right" src="https://user-images.githubusercontent.com/58791994/181676023-a86130e0-0c59-471b-b573-329b5f580498.png" alt="Form" height='250px' width="32%"/>
+<img  src="https://user-images.githubusercontent.com/58791994/181675870-10487ca9-6644-440d-8c3c-dc8a6065328a.png" width="32%" height='250px'>
+<img  src="https://user-images.githubusercontent.com/58791994/181675917-d60f7624-4fda-45e2-b6db-00cfa33e4df6.png" width="32%" height='250px'>
+<img  src="https://user-images.githubusercontent.com/58791994/181676023-a86130e0-0c59-471b-b573-329b5f580498.png" width="32%" height='250px'>
 </p>
+
 <br/>
 
 ********
