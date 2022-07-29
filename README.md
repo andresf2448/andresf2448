@@ -25,6 +25,18 @@ I am a Full Stack developer and Mathematician. My passion is the constant learni
 
 <h1 align="center"> Projects </h1>
 
+## <a href="https://github.com/andresf2448/sytem_voting_full" target="_blank">rocket_punk</a>
+<p>Rocket punk is a platform on the blockchain using solidity as a technology to develop smart contracts, react and web3 js for the graphical interface and MetaMask as a provider for the communication of the JSON-RPC protocol.</p>
+
+<p align="center">
+<img  src="https://user-images.githubusercontent.com/58791994/181682184-31a6f5cc-069f-453a-8fdb-9df3fa5bfc54.png" width="32%" height='250px'>
+<img  src="https://user-images.githubusercontent.com/58791994/181682329-148cc760-c96f-4d61-abf4-7d0044fb6cfe.png" width="32%" height='250px'>
+<img  src="https://user-images.githubusercontent.com/58791994/181682391-cc568570-856d-4aa8-9d70-e69ef13bdd6b.png" width="32%" height='250px'>
+</p>
+<br/>
+
+********
+
 ## <a href="https://github.com/andresf2448/Exchange-ProyectoFinal" target="_blank">ROCKET EXCHANGE</a>
 <p>
 I create a platform that allows people to connect to the blockchain network where they can exchange their assets for any other kind of currencies, both fiat and cryptocurrencies.
