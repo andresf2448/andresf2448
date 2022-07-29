@@ -28,6 +28,15 @@ I am a Full Stack developer and Mathematician. My passion is the constant learni
 ## <a href="https://github.com/andresf2448/rocket_punk" target="_blank">rocket_punk</a>
 <p>Rocket punk is a platform on the blockchain using solidity as a technology to develop smart contracts, react and web3 js for the graphical interface and MetaMask as a provider for the communication of the JSON-RPC protocol.</p>
 
+***In the platform users can:***
+
+<ol>
+  <li>View list of its rocket avatars.</li>
+  <li>View features of a specific rocket punk.</li>
+  <li>Generate your rocket avatar.</li>
+  <li>Transfer your rocket avatar to another user.</li>
+</ol>
+
 <p align="center">
 <img  src="https://user-images.githubusercontent.com/58791994/181682184-31a6f5cc-069f-453a-8fdb-9df3fa5bfc54.png" width="32%" height='250px'>
 <img  src="https://user-images.githubusercontent.com/58791994/181682329-148cc760-c96f-4d61-abf4-7d0044fb6cfe.png" width="32%" height='250px'>
@@ -70,6 +79,15 @@ ROCKET EXCHANGE
 ## <a href="https://github.com/andresf2448/sytem_voting_full" target="_blank">sytem_voting_full</a>
 <p>A voting system is implemented on blockchain using solidity as technology for the development of smart contracts, react and ethers for the graphical interface and MetaMask as a provider for the communication of the JSON-RPC protocol.</p>
 
+***In the platform users can:***
+
+<ol>
+  <li>Apply to become a candidate, entering their photo and required information.</li>
+  <li>Vote for a candidate.</li>
+  <li>Consult the number of votes for a candidate.</li>
+  <li>See the winner of the votes.</li>
+</ol>
+
 <p align="center">
 <img  src="https://user-images.githubusercontent.com/58791994/181675870-10487ca9-6644-440d-8c3c-dc8a6065328a.png" width="32%" height='250px'>
 <img  src="https://user-images.githubusercontent.com/58791994/181675917-d60f7624-4fda-45e2-b6db-00cfa33e4df6.png" width="32%" height='250px'>
@@ -81,6 +99,17 @@ ROCKET EXCHANGE
 
 ## <a href="https://github.com/andresf2448/system_lotery_full" target="_blank">system_lotery_full</a>
 <p>SystemLotery is a platform on the blockchain using solidity as a technology to develop smart contracts, react and ethers js for the graphical interface and MetaMask as a provider for the communication of the JSON-RPC protocol.</p>
+
+***In the platform users can:***
+
+<ol>
+  <li>See your balance.</li>
+  <li>Buy tokens.</li>
+  <li>Buy tickets.</li>
+  <li>See your tickets.</li>
+  <li>See the winner.</li>
+  <li>Withdraw or exchange your tokens for ether.</li>
+</ol>
 
 <p align="center">
 <img  src="https://user-images.githubusercontent.com/58791994/180840346-1cb9eecf-1708-4a74-90f0-051081a94b19.png" width="32%" height='250px'>
