@@ -25,7 +25,7 @@ I am a Full Stack developer and Mathematician. My passion is the constant learni
 
 <h1 align="center"> Projects </h1>
 
-## <a href="https://github.com/andresf2448/rocket_punk" target="_blank">rocket_punk</a>
+## <a href="https://github.com/andresf2448/rocket_punk" target="_blank">Rocket Punks NTFS</a>
 <p>Rocket punk is a platform on the blockchain using solidity as a technology to develop smart contracts, react and web3 js for the graphical interface and MetaMask as a provider for the communication of the JSON-RPC protocol.</p>
 
 ***In the platform users can:***
@@ -76,7 +76,7 @@ ROCKET EXCHANGE
 
 ********
 
-## <a href="https://github.com/andresf2448/sytem_voting_full" target="_blank">sytem_voting_full</a>
+## <a href="https://github.com/andresf2448/sytem_voting_full" target="_blank">SYSTEM VOTING</a>
 <p>A voting system is implemented on blockchain using solidity as technology for the development of smart contracts, react and ethers for the graphical interface and MetaMask as a provider for the communication of the JSON-RPC protocol.</p>
 
 ***In the platform users can:***
@@ -97,7 +97,7 @@ ROCKET EXCHANGE
 
 ********
 
-## <a href="https://github.com/andresf2448/system_lotery_full" target="_blank">system_lotery_full</a>
+## <a href="https://github.com/andresf2448/system_lotery_full" target="_blank">SYSTEM LOTERY</a>
 <p>SystemLotery is a platform on the blockchain using solidity as a technology to develop smart contracts, react and ethers js for the graphical interface and MetaMask as a provider for the communication of the JSON-RPC protocol.</p>
 
 ***In the platform users can:***
