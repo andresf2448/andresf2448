@@ -39,7 +39,7 @@ Collaborator: <a href="https://github.com/MJULIAN90" target="_blank">Martín Jul
 
 ********
 
-## <a href="https://github.com/andresf2448/rocket_punk" target="_blank">Rocket Punks NTFS</a>
+## <a href="https://github.com/andresf2448/rocket_punk" target="_blank">Rocket Punks NFTS</a>
 <p>Rocket punk is a platform on the blockchain using solidity as a technology to develop smart contracts, react and web3 js for the graphical interface and MetaMask as a provider for the communication of the JSON-RPC protocol.</p>
 
 ***In the platform users can:***
