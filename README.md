@@ -1,4 +1,4 @@
-<img width="1400" height="349" alt="Perfil superior" src="https://github.com/user-attachments/assets/f17a3f37-6b96-4c79-a3e7-ba8d8cc21641" />
+<img width="1400" height="349" alt="Perfil superior" src="https://github.com/user-attachments/assets/097998f3-b40b-4c02-94b6-dad34069e066" />
 
 <h1 align="center">Hello, I'm Andrés Felipe Velásquez Trujillo 👋</h1>
 
