@@ -195,148 +195,215 @@ contract CurrentFocus {
 
 <hr/>
 
-<h1 align="center"> Projects </h1>
-
-## <a href="https://github.com/andresf2448/Health_System_Full" target="_blank">Health System</a>
-<p>A Health system is implemented on blockchain using solidity as technology for the development of smart contracts, react and ethers for the graphical interface and MetaMask as a provider for the com[...]
+<h1 align="center">🚀 Featured Projects</h1>
 
 <p align="center">
-<img  src="https://user-images.githubusercontent.com/58791994/182286742-5a2d7b83-83f5-436c-b000-5af08534ae6c.png" width="32%" height='250px'>
-<img  src="https://user-images.githubusercontent.com/58791994/182281334-c9668c48-7148-4034-8da1-23e8bf201799.png" width="32%" height='250px'>
-<img  src="https://user-images.githubusercontent.com/58791994/182282339-1704c72a-1c33-4f58-8811-1c1f6c270e34.png" width="32%" height='250px'>
+A selection of blockchain, DeFi and full stack applications focused on smart contracts, Web3 infrastructure and decentralized systems.
 </p>
-<br/>
 
-Collaborator: <a href="https://github.com/MJULIAN90" target="_blank">Martín Julian Ruiz Velásquez</a>
+---
 
-********
-
-## <a href="https://github.com/andresf2448/rocket_punk" target="_blank">Rocket Punks NFTS</a>
-<p>Rocket punk is a platform on the blockchain using solidity as a technology to develop smart contracts, react and web3 js for the graphical interface and MetaMask as a provider for the communication[...]
-
-***In the platform users can:***
-
-<ol>
-  <li>View list of its rocket avatars.</li>
-  <li>View features of a specific rocket punk.</li>
-  <li>Generate your rocket avatar.</li>
-  <li>Transfer your rocket avatar to another user.</li>
-</ol>
+# 🏥 Health System — Blockchain Healthcare Platform
 
 <p align="center">
-<img  src="https://user-images.githubusercontent.com/58791994/181682184-31a6f5cc-069f-453a-8fdb-9df3fa5bfc54.png" width="32%" height='250px'>
-<img  src="https://user-images.githubusercontent.com/58791994/181682329-148cc760-c96f-4d61-abf4-7d0044fb6cfe.png" width="32%" height='250px'>
-<img  src="https://user-images.githubusercontent.com/58791994/181682391-cc568570-856d-4aa8-9d70-e69ef13bdd6b.png" width="32%" height='250px'>
+  <a href="https://github.com/andresf2448/Health_System_Full" target="_blank">
+    <img src="https://img.shields.io/badge/View-Repository-2ea44f?style=for-the-badge&logo=github"/>
+  </a>
 </p>
-<br/>
 
-Collaborator: <a href="https://github.com/MJULIAN90" target="_blank">Martín Julian Ruiz Velásquez</a>
+A decentralized healthcare platform built with Solidity smart contracts, allowing laboratories and users to interact through blockchain-based subscriptions and healthcare services.
 
-********
+### ⚙️ Features
 
-## <a href="https://github.com/andresf2448/Exchange-ProyectoFinal" target="_blank">ROCKET EXCHANGE</a>
-<p>
-I create a platform that allows people to connect to the blockchain network where they can exchange their assets for any other kind of currencies, both fiat and cryptocurrencies.
+- Subscription-based smart contracts
+- ERC20 token integration
+- Laboratory-created specialized services
+- MetaMask wallet connectivity
+- Decentralized healthcare service management
 
- ***For this we use the Stellar network, but why Stellar network?***
+### 🛠 Tech Stack
 
-<ol>
-  <li>It allows compatibility between any type of assets.</li>
-  <li>Trading costs are very low.</li>
-  <li>The protocol on which it is based allows scalability in the future (in the number of possible transactions to be carried out).
-</li>
-  <li>It is sustainable since it does not make use of mining because it considers it harmful to the environment.
-</li>
-</ol>
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Ethers](https://img.shields.io/badge/Ethers.js-2535A0?style=for-the-badge)
+![OpenZeppelin](https://img.shields.io/badge/OpenZeppelin-4E5EE4?style=for-the-badge)
+![Truffle](https://img.shields.io/badge/Truffle-5E464D?style=for-the-badge)
 
-The objective is to bring people together in the exchange of assets, through a simple and friendly interface that enables secure and fast transactions between money and cryptocurrencies.
+<p align="center">
+<img src="https://user-images.githubusercontent.com/58791994/182286742-5a2d7b83-83f5-436c-b000-5af08534ae6c.png" width="31%">
+<img src="https://user-images.githubusercontent.com/58791994/182281334-c9668c48-7148-4034-8da1-23e8bf201799.png" width="31%">
+<img src="https://user-images.githubusercontent.com/58791994/182282339-1704c72a-1c33-4f58-8811-1c1f6c270e34.png" width="31%">
+</p>
+
+---
+
+# 🚀 Rocket Punk NFTs
+
+<p align="center">
+  <a href="https://github.com/andresf2448/rocket_punk" target="_blank">
+    <img src="https://img.shields.io/badge/View-Repository-2ea44f?style=for-the-badge&logo=github"/>
+  </a>
+</p>
+
+NFT platform where users can mint, manage and transfer ERC721 NFTs directly on-chain.
+
+### ⚙️ Features
+
+- NFT minting
+- ERC721 ownership transfers
+- MetaMask integration
+- On-chain avatar generation
+- Decentralized NFT interactions
+
+### 🛠 Tech Stack
+
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
+![Hardhat](https://img.shields.io/badge/Hardhat-F7DF1E?style=for-the-badge)
+![Web3.js](https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![OpenZeppelin](https://img.shields.io/badge/OpenZeppelin-4E5EE4?style=for-the-badge)
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/58791994/181682184-31a6f5cc-069f-453a-8fdb-9df3fa5bfc54.png" width="31%">
+<img src="https://user-images.githubusercontent.com/58791994/181682329-148cc760-c96f-4d61-abf4-7d0044fb6cfe.png" width="31%">
+<img src="https://user-images.githubusercontent.com/58791994/181682391-cc568570-856d-4aa8-9d70-e69ef13bdd6b.png" width="31%">
+</p>
+
+---
+
+# 🗳 Decentralized Voting System
+
+<p align="center">
+  <a href="https://github.com/andresf2448/sytem_voting_full" target="_blank">
+    <img src="https://img.shields.io/badge/View-Repository-2ea44f?style=for-the-badge&logo=github"/>
+  </a>
+</p>
+
+Blockchain voting application designed to guarantee transparency, immutability and one-vote-per-user participation.
+
+### ⚙️ Features
+
+- Candidate registration
+- Immutable election records
+- One-vote-per-user validation
+- Real-time vote counting
+- IPFS integration
+
+### 🛠 Tech Stack
+
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
+![Hardhat](https://img.shields.io/badge/Hardhat-F7DF1E?style=for-the-badge)
+![Ethers](https://img.shields.io/badge/Ethers.js-2535A0?style=for-the-badge)
+![IPFS](https://img.shields.io/badge/IPFS-65C2CB?style=for-the-badge)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/58791994/181675870-10487ca9-6644-440d-8c3c-dc8a6065328a.png" width="31%">
+<img src="https://user-images.githubusercontent.com/58791994/181675917-d60f7624-4fda-45e2-b6db-00cfa33e4df6.png" width="31%">
+<img src="https://user-images.githubusercontent.com/58791994/181676023-a86130e0-0c59-471b-b573-329b5f580498.png" width="31%">
+</p>
+
+---
+
+# 🎰 Lottery DApp
+
+<p align="center">
+  <a href="https://github.com/andresf2448/system_lotery_full" target="_blank">
+    <img src="https://img.shields.io/badge/View-Repository-2ea44f?style=for-the-badge&logo=github"/>
+  </a>
+</p>
+
+A decentralized lottery system where users can purchase tickets, interact with token rewards and participate in on-chain winner selection.
+
+### ⚙️ Features
+
+- On-chain lottery participation
+- Token purchase system
+- Random winner selection
+- Ticket management
+- Token withdrawal functionality
+
+### 🛠 Tech Stack
+
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
+![Hardhat](https://img.shields.io/badge/Hardhat-F7DF1E?style=for-the-badge)
+![Ethers](https://img.shields.io/badge/Ethers.js-2535A0?style=for-the-badge)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/58791994/180840346-1cb9eecf-1708-4a74-90f0-051081a94b19.png" width="31%">
+<img src="https://user-images.githubusercontent.com/58791994/180841668-3daa2b74-b1bb-4fcb-8e60-38fcc9e37ab9.png" width="31%">
+<img src="https://user-images.githubusercontent.com/58791994/180843460-5c2e1565-8a31-4099-b094-ed90a0d57ecf.png" width="31%">
+</p>
+
+---
+
+# 💱 RocketXChange
+
+<p align="center">
+  <a href="https://github.com/andresf2448/Exchange-ProyectoFinal" target="_blank">
+    <img src="https://img.shields.io/badge/View-Repository-2ea44f?style=for-the-badge&logo=github"/>
+  </a>
+</p>
+
+Exchange platform connected to the Stellar blockchain network for fiat and cryptocurrency asset trading.
+
+### ⚙️ Features
+
+- Fiat & crypto exchange
+- Stellar blockchain integration
+- Real-time operations
+- Financial asset management
+- Secure transaction workflows
+
+### 🛠 Tech Stack
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Stellar](https://img.shields.io/badge/Stellar-000000?style=for-the-badge)
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/76981775/130149215-bbae8143-9fed-46b6-80dd-d6ca04d000e1.png" width="31%">
+<img src="https://user-images.githubusercontent.com/76981775/130149625-f01e6be0-6514-4c54-a6c1-948e3a4a601f.png" width="31%">
+<img src="https://user-images.githubusercontent.com/76981775/130149667-fe25bee4-296c-4ed5-906e-7ffcecff1d5f.png" width="31%">
 </p>
 
 <p align="center">
-<img  src="https://user-images.githubusercontent.com/76981775/130149215-bbae8143-9fed-46b6-80dd-d6ca04d000e1.png" width="32%" height='250px'>
-<img  src="https://user-images.githubusercontent.com/76981775/130149625-f01e6be0-6514-4c54-a6c1-948e3a4a601f.png" width="32%" height='250px'>
-<img  src="https://user-images.githubusercontent.com/76981775/130149667-fe25bee4-296c-4ed5-906e-7ffcecff1d5f.png" width="32%" height='250px'>
+<a href="https://rocketxchange.vercel.app/" target="_blank">
+<img src="https://img.shields.io/badge/Live-Demo-blue?style=for-the-badge"/>
+</a>
 </p>
 
-✔ web site: <a href="https://rocketxchange.vercel.app/" target="_blank">
-ROCKET EXCHANGE
+---
+
+# 🌐 Additional Frontend Projects
+
+### 🐶 PI Dogs
+
+Full Stack SPA using React, Redux, Node.js, Express, Sequelize and PostgreSQL.
+
+### 🥤 Coca-Cola Landing Page
+
+Responsive landing page built with JavaScript, HTML, CSS and jQuery.
+
+---
+
+# 📬 Contact
+
+<p align="center">
+
+<a href="mailto:andresf2448@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"/>
 </a>
 
-********
+<a href="https://www.linkedin.com/in/andresvelasqueztrujillo" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin"/>
+</a>
 
-## <a href="https://github.com/andresf2448/sytem_voting_full" target="_blank">SYSTEM VOTING</a>
-<p>A voting system is implemented on blockchain using solidity as technology for the development of smart contracts, react and ethers for the graphical interface and MetaMask as a provider for the com[...]
+<a href="https://github.com/andresf2448" target="_blank">
+<img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github"/>
+</a>
 
-***In the platform users can:***
-
-<ol>
-  <li>Apply to become a candidate, entering their photo and required information.</li>
-  <li>Vote for a candidate.</li>
-  <li>Consult the number of votes for a candidate.</li>
-  <li>See the winner of the votes.</li>
-</ol>
-
-<p align="center">
-<img  src="https://user-images.githubusercontent.com/58791994/181675870-10487ca9-6644-440d-8c3c-dc8a6065328a.png" width="32%" height='250px'>
-<img  src="https://user-images.githubusercontent.com/58791994/181675917-d60f7624-4fda-45e2-b6db-00cfa33e4df6.png" width="32%" height='250px'>
-<img  src="https://user-images.githubusercontent.com/58791994/181676023-a86130e0-0c59-471b-b573-329b5f580498.png" width="32%" height='250px'>
 </p>
-<br/>
-
-Collaborator: <a href="https://github.com/MJULIAN90" target="_blank">Martín Julian Ruiz Velásquez</a>
-
-********
-
-## <a href="https://github.com/andresf2448/system_lotery_full" target="_blank">SYSTEM LOTERY</a>
-<p>SystemLotery is a platform on the blockchain using solidity as a technology to develop smart contracts, react and ethers js for the graphical interface and MetaMask as a provider for the communicat[...]
-
-***In the platform users can:***
-
-<ol>
-  <li>See your balance.</li>
-  <li>Buy tokens.</li>
-  <li>Buy tickets.</li>
-  <li>See your tickets.</li>
-  <li>See the winner.</li>
-  <li>Withdraw or exchange your tokens for ether.</li>
-</ol>
-
-<p align="center">
-<img  src="https://user-images.githubusercontent.com/58791994/180840346-1cb9eecf-1708-4a74-90f0-051081a94b19.png" width="32%" height='250px'>
-<img  src="https://user-images.githubusercontent.com/58791994/180841668-3daa2b74-b1bb-4fcb-8e60-38fcc9e37ab9.png" width="32%" height='250px'>
-<img  src="https://user-images.githubusercontent.com/58791994/180843460-5c2e1565-8a31-4099-b094-ed90a0d57ecf.png" width="32%" height='250px'>
-</p>
-
-<br/>
-
-Collaborator: <a href="https://github.com/MJULIAN90" target="_blank">Martín Julian Ruiz Velásquez</a>
-
-********
- 
-## <a href="https://github.com/andresf2448/PI-Dogs" target="_blank">PI-Dogs</a>
-<p>Development of a SPA (Single Page Application) using React for the Front End and Redux as state management. Pure CSS was implemented in the styles without the use of external libraries. The SPA con[...]
-
-<p align="center">
-<img  src="https://user-images.githubusercontent.com/58791994/124400484-9c1a9800-dcd7-11eb-8acc-1091b8b6514a.png" width="32%" height='250px'>
-<img  src="https://user-images.githubusercontent.com/58791994/124400541-1cd99400-dcd8-11eb-81a8-1a930984a96e.png" width="32%" height='250px'>
-<img  src="https://user-images.githubusercontent.com/58791994/124400542-1f3bee00-dcd8-11eb-8ba2-9bb2df37bdfc.png" width="32%" height='250px'>
-</p>
-
-********
-
-## <a href="https://github.com/andresf2448/Coca-Cola" target="_blank">Coca-Cola</a>
-<p>Development of a responsive Landing Page with Coca-Cola theme, using JavaScript, CSS, HTML, jQuery.</p>
-
-<p align="center">
-<img  src="https://user-images.githubusercontent.com/58791994/128064128-e69b8f20-0cc8-4759-990e-950693d33e96.jpeg" width="32%" height='250px'>
-<img  src="https://user-images.githubusercontent.com/58791994/128064294-874d627d-9119-4bb0-b81c-67bfdcfe3f4f.jpeg" width="32%" height='250px'>
-<img  src="https://user-images.githubusercontent.com/58791994/128064311-e449ba32-b8b8-4a0d-b9a4-357b0da36c4a.jpeg" width="32%" height='250px'>
-</p>
-
-<br/>
-
-  <hr/>
-  You want to know more about me, contact me! <br/>
-✔ Linkedin: <a href="http://www.linkedin.com/in/andresvelasqueztrujillo">www.linkedin.com/in/andresvelasqueztrujillo</a> <br/>
-✔ WP: <a href="https://api.whatsapp.com/send?phone=573147710288&text=Gracias%20por%20contactar!" target="_blank">+57 313 675 62 46</a> (Móvil) <br/>
-✔ E-mail: andresf2448@gmail.com <br/>
