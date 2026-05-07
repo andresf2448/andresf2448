@@ -32,7 +32,7 @@ I combine strong blockchain engineering experience with solid Web2 development k
 
 ### Smart Contract Development
 
-<p align="left">
+<p align="center">
 <img src="https://skillicons.dev/icons?i=solidity" height="45" alt="solidity"/>
 <img src="https://cryptologos.cc/logos/ethereum-eth-logo.png?v=040" height="45" alt="ethereum"/>
 <img src="https://avatars.githubusercontent.com/u/99892494?s=200&v=4" height="45" alt="foundry"/>
@@ -47,7 +47,7 @@ I combine strong blockchain engineering experience with solid Web2 development k
 
 ### Smart Contract Security
 
-<p align="left">
+<p align="center">
 <img src="https://avatars.githubusercontent.com/u/4543652?s=200&v=4" height="45" alt="openzeppelin"/>
 <img src="https://avatars.githubusercontent.com/u/5430905?s=200&v=4" height="45" alt="security"/>
 </p>
@@ -65,7 +65,7 @@ I combine strong blockchain engineering experience with solid Web2 development k
 
 ### Web3 Frontend
 
-<p align="left">
+<p align="center">
 <img src="https://skillicons.dev/icons?i=react" height="45"/>
 <img src="https://skillicons.dev/icons?i=typescript" height="45"/>
 <img src="https://skillicons.dev/icons?i=javascript" height="45"/>
@@ -96,7 +96,7 @@ Although my current specialization is blockchain and smart contract security, I 
 
 ### Backend
 
-<p align="left">
+<p align="center">
 <img src="https://skillicons.dev/icons?i=nodejs" height="45"/>
 <img src="https://skillicons.dev/icons?i=express" height="45"/>
 <img src="https://skillicons.dev/icons?i=ruby" height="45"/>
@@ -118,7 +118,7 @@ Although my current specialization is blockchain and smart contract security, I 
 
 ### Frontend
 
-<p align="left">
+<p align="center">
 <img src="https://skillicons.dev/icons?i=react" height="45"/>
 <img src="https://reactnative.dev/img/header_logo.svg" height="45"/>
 <img src="https://skillicons.dev/icons?i=redux" height="45"/>
@@ -168,7 +168,7 @@ I have worked as:
 
 I have taught and mentored more than **5,000 students** in areas such as:
 
-<p align="left">
+<p align="center">
 <img src="https://skillicons.dev/icons?i=javascript" height="45"/>
 <img src="https://skillicons.dev/icons?i=python" height="45"/>
 <img src="https://skillicons.dev/icons?i=solidity" height="45"/>
