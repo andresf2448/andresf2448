@@ -390,6 +390,34 @@ Responsive landing page built with JavaScript, HTML, CSS and jQuery.
 
 ---
 
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<table>
+<tr>
+<td>
+
+<img
+src="https://github-readme-stats-sigma-five.vercel.app/api?username=andresf2448&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117"
+/>
+
+</td>
+
+<td>
+
+<img
+src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=andresf2448&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"
+/>
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
 # 📬 Contact
 
 <p align="center">
