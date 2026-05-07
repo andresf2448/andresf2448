@@ -41,7 +41,9 @@ I combine strong blockchain engineering experience with solid Web2 development k
 <img src="https://avatars.githubusercontent.com/u/99892494?s=200&v=4" height="45" alt="forge"/>
 </p>
 
+<p align="center">
 `Solidity` • `Ethereum` • `ERC20` • `ERC721` • `Foundry` • `Hardhat` • `Truffle`
+</p>
 
 ---
 
@@ -52,6 +54,7 @@ I combine strong blockchain engineering experience with solid Web2 development k
 <img src="https://avatars.githubusercontent.com/u/5430905?s=200&v=4" height="45" alt="security"/>
 </p>
 
+<p align="center">
 `OpenZeppelin`
 • `Slither`
 • `Aderyn`
@@ -60,6 +63,7 @@ I combine strong blockchain engineering experience with solid Web2 development k
 • `Stateful Testing`
 • `Unit Testing`
 • `Integration Testing`
+</p>
 
 ---
 
@@ -76,6 +80,7 @@ I combine strong blockchain engineering experience with solid Web2 development k
 <img src="https://seeklogo.com/images/M/metamask-logo-09EDE53DBD-seeklogo.com.png" height="45"/>
 </p>
 
+<p align="center">
 `React`
 • `TypeScript`
 • `JavaScript`
@@ -87,6 +92,7 @@ I combine strong blockchain engineering experience with solid Web2 development k
 • `MetaMask`
 • `IPFS`
 • `Chainlink`
+</p>
 
 ---
 
@@ -106,6 +112,7 @@ Although my current specialization is blockchain and smart contract security, I 
 <img src="https://seeklogo.com/images/S/supabase-logo-DCC676FFE2-seeklogo.com.png" height="45"/>
 </p>
 
+<p align="center">
 `Node.js`
 • `Express`
 • `Ruby`
@@ -113,6 +120,7 @@ Although my current specialization is blockchain and smart contract security, I 
 • `PostgreSQL`
 • `Sequelize`
 • `Supabase`
+</p>
 
 ---
 
@@ -128,6 +136,7 @@ Although my current specialization is blockchain and smart contract security, I 
 <img src="https://skillicons.dev/icons?i=css" height="45"/>
 </p>
 
+<p align="center">
 `React`
 • `React Native`
 • `Redux`
@@ -135,6 +144,7 @@ Although my current specialization is blockchain and smart contract security, I 
 • `Material UI`
 • `HTML`
 • `CSS`
+</p>
 
 ---
 
@@ -175,6 +185,7 @@ I have taught and mentored more than **5,000 students** in areas such as:
 <img src="https://skillicons.dev/icons?i=cpp" height="45"/>
 </p>
 
+<p align="center">
 `JavaScript`
 • `Python`
 • `Solidity`
@@ -182,6 +193,7 @@ I have taught and mentored more than **5,000 students** in areas such as:
 • `Mathematics`
 • `Physics`
 • `Full Stack Development`
+</p>
 
 Teaching has strengthened my communication, leadership and problem-solving skills, helping me explain complex technical concepts clearly and effectively.
 
@@ -209,7 +221,7 @@ contract CurrentFocus {
 <h1 align="center"> Projects </h1>
 
 ## <a href="https://github.com/andresf2448/Health_System_Full" target="_blank">Health System</a>
-<p>A Health system is implemented on blockchain using solidity as technology for the development of smart contracts, react and ethers for the graphical interface and MetaMask as a provider for the communication of the JSON-RPC protocol. The platform includes the creation of services by the administrator and specialized services by a laboratory. In order to create the specialized services, a laboratory must create a subscription which represents the creation of a smart contract within the platform, as well as when a user wants to access the different services, he must create his subscription which also represents the creation of a smart contract. The platform operates with its own token named RC that was created with the OpenZeppelin ERC721 protocol standard.</p>
+<p>A Health system is implemented on blockchain using solidity as technology for the development of smart contracts, react and ethers for the graphical interface and MetaMask as a provider for the com[...]
 
 <p align="center">
 <img  src="https://user-images.githubusercontent.com/58791994/182286742-5a2d7b83-83f5-436c-b000-5af08534ae6c.png" width="32%" height='250px'>
@@ -223,7 +235,7 @@ Collaborator: <a href="https://github.com/MJULIAN90" target="_blank">Martín Jul
 ********
 
 ## <a href="https://github.com/andresf2448/rocket_punk" target="_blank">Rocket Punks NFTS</a>
-<p>Rocket punk is a platform on the blockchain using solidity as a technology to develop smart contracts, react and web3 js for the graphical interface and MetaMask as a provider for the communication of the JSON-RPC protocol.</p>
+<p>Rocket punk is a platform on the blockchain using solidity as a technology to develop smart contracts, react and web3 js for the graphical interface and MetaMask as a provider for the communication[...]
 
 ***In the platform users can:***
 
@@ -276,7 +288,7 @@ ROCKET EXCHANGE
 ********
 
 ## <a href="https://github.com/andresf2448/sytem_voting_full" target="_blank">SYSTEM VOTING</a>
-<p>A voting system is implemented on blockchain using solidity as technology for the development of smart contracts, react and ethers for the graphical interface and MetaMask as a provider for the communication of the JSON-RPC protocol.</p>
+<p>A voting system is implemented on blockchain using solidity as technology for the development of smart contracts, react and ethers for the graphical interface and MetaMask as a provider for the com[...]
 
 ***In the platform users can:***
 
@@ -299,7 +311,7 @@ Collaborator: <a href="https://github.com/MJULIAN90" target="_blank">Martín Jul
 ********
 
 ## <a href="https://github.com/andresf2448/system_lotery_full" target="_blank">SYSTEM LOTERY</a>
-<p>SystemLotery is a platform on the blockchain using solidity as a technology to develop smart contracts, react and ethers js for the graphical interface and MetaMask as a provider for the communication of the JSON-RPC protocol.</p>
+<p>SystemLotery is a platform on the blockchain using solidity as a technology to develop smart contracts, react and ethers js for the graphical interface and MetaMask as a provider for the communicat[...]
 
 ***In the platform users can:***
 
@@ -325,7 +337,7 @@ Collaborator: <a href="https://github.com/MJULIAN90" target="_blank">Martín Jul
 ********
  
 ## <a href="https://github.com/andresf2448/PI-Dogs" target="_blank">PI-Dogs</a>
-<p>Development of a SPA (Single Page Application) using React for the Front End and Redux as state management. Pure CSS was implemented in the styles without the use of external libraries. The SPA consumes data from an API (The Dog API) through a Back End developed in Node.JS using Express, adding new functionalities to the original API. In the project you can find filters (name, temperaments, weight, name in alphabetical order, created) and a form for the creation of new dog breeds that are stored in a database made with Sequelize and PostgreSQL.</p>
+<p>Development of a SPA (Single Page Application) using React for the Front End and Redux as state management. Pure CSS was implemented in the styles without the use of external libraries. The SPA con[...]
 
 <p align="center">
 <img  src="https://user-images.githubusercontent.com/58791994/124400484-9c1a9800-dcd7-11eb-8acc-1091b8b6514a.png" width="32%" height='250px'>
