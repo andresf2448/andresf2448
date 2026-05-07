@@ -41,9 +41,11 @@ I combine strong blockchain engineering experience with solid Web2 development k
 <img src="https://avatars.githubusercontent.com/u/99892494?s=200&v=4" height="45" alt="forge"/>
 </p>
 
-<p align="center">
+<div align="center">
+
 `Solidity` • `Ethereum` • `ERC20` • `ERC721` • `Foundry` • `Hardhat` • `Truffle`
-</p>
+
+</div>
 
 ---
 
@@ -54,16 +56,11 @@ I combine strong blockchain engineering experience with solid Web2 development k
 <img src="https://avatars.githubusercontent.com/u/5430905?s=200&v=4" height="45" alt="security"/>
 </p>
 
-<p align="center">
-`OpenZeppelin`
-• `Slither`
-• `Aderyn`
-• `Fuzz Testing`
-• `Invariant Testing`
-• `Stateful Testing`
-• `Unit Testing`
-• `Integration Testing`
-</p>
+<div align="center">
+
+`OpenZeppelin` • `Slither` • `Aderyn` • `Fuzz Testing` • `Invariant Testing` • `Stateful Testing` • `Unit Testing` • `Integration Testing`
+
+</div>
 
 ---
 
@@ -80,19 +77,11 @@ I combine strong blockchain engineering experience with solid Web2 development k
 <img src="https://seeklogo.com/images/M/metamask-logo-09EDE53DBD-seeklogo.com.png" height="45"/>
 </p>
 
-<p align="center">
-`React`
-• `TypeScript`
-• `JavaScript`
-• `Ethers.js`
-• `Web3.js`
-• `wagmi`
-• `viem`
-• `RainbowKit`
-• `MetaMask`
-• `IPFS`
-• `Chainlink`
-</p>
+<div align="center">
+
+`React` • `TypeScript` • `JavaScript` • `Ethers.js` • `Web3.js` • `wagmi` • `viem` • `RainbowKit` • `MetaMask` • `IPFS` • `Chainlink`
+
+</div>
 
 ---
 
@@ -112,15 +101,11 @@ Although my current specialization is blockchain and smart contract security, I 
 <img src="https://seeklogo.com/images/S/supabase-logo-DCC676FFE2-seeklogo.com.png" height="45"/>
 </p>
 
-<p align="center">
-`Node.js`
-• `Express`
-• `Ruby`
-• `Ruby on Rails`
-• `PostgreSQL`
-• `Sequelize`
-• `Supabase`
-</p>
+<div align="center">
+
+`Node.js` • `Express` • `Ruby` • `Ruby on Rails` • `PostgreSQL` • `Sequelize` • `Supabase`
+
+</div>
 
 ---
 
@@ -136,15 +121,11 @@ Although my current specialization is blockchain and smart contract security, I 
 <img src="https://skillicons.dev/icons?i=css" height="45"/>
 </p>
 
-<p align="center">
-`React`
-• `React Native`
-• `Redux`
-• `TailwindCSS`
-• `Material UI`
-• `HTML`
-• `CSS`
-</p>
+<div align="center">
+
+`React` • `React Native` • `Redux` • `TailwindCSS` • `Material UI` • `HTML` • `CSS`
+
+</div>
 
 ---
 
@@ -185,15 +166,11 @@ I have taught and mentored more than **5,000 students** in areas such as:
 <img src="https://skillicons.dev/icons?i=cpp" height="45"/>
 </p>
 
-<p align="center">
-`JavaScript`
-• `Python`
-• `Solidity`
-• `Programming Logic`
-• `Mathematics`
-• `Physics`
-• `Full Stack Development`
-</p>
+<div align="center">
+
+`JavaScript` • `Python` • `Solidity` • `Programming Logic` • `Mathematics` • `Physics` • `Full Stack Development`
+
+</div>
 
 Teaching has strengthened my communication, leadership and problem-solving skills, helping me explain complex technical concepts clearly and effectively.
 
