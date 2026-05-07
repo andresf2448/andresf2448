@@ -1,25 +1,208 @@
-![pexels-max-deroin-51415 (2)](https://user-images.githubusercontent.com/58791994/124398821-a08d8380-dccc-11eb-990f-c45f929547b8.jpg)
+<img width="1400" height="349" alt="Perfil superior" src="https://github.com/user-attachments/assets/f17a3f37-6b96-4c79-a3e7-ba8d8cc21641" />
 
-### Hello, my name is Andrés Felipe Velásquez Trujillo 👋
+<h1 align="center">Hello, I'm Andrés Felipe Velásquez Trujillo 👋</h1>
 
-I am a Full Stack developer and Mathematician. My passion is the constant learning of technologies both for web development and different branches of artificial intelligence. I have knowledge in HTML | CSS | JavaScript | Python | NodeJS | React | React Native | Redux | Material-UI | PostgreSQL | Express | Sequelize | GitLab | GitHub | Git | Ruby | Ruby on Rails | Solidity | Hardhat | Truffle | Web3 JS | Ethers JS | Chai | Mocha | IPFS | OpenZeppelin | Remix |.
+<h3 align="center">
+Blockchain Engineer | Solidity Smart Contract Developer | DeFi & Smart Contract Security
+</h3>
 
-🧑 How do I define myself? I consider myself a person passionate about knowledge, constant learning of new technologies and new challenges. I love to have new relationships, preserving constant and assertive communication. Personally, I think that one of the sources of success in any activity is the communication between work teams. I am constantly looking for personal and group progress in the areas in which I develop my activities.
-
-****
 <p align="center">
-<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=andresf2448&theme=radical' />
+Mathematician • Full Stack Web3 Engineer • Smart Contract Security Researcher
 </p>
 
-****
-<p align="center">
-<img src='https://github-readme-stats.vercel.app/api?username=andresf2448&show_icons=true&theme=radical' />
+---
+
+I am a **Blockchain-focused Full Stack Engineer** and **Mathematician** specialized in building secure decentralized applications, smart contracts and financial systems.
+
+My main focus is on:
+
+- Solidity Smart Contracts
+- DeFi Protocols
+- Smart Contract Security
+- Governance Systems
+- Vault & Treasury Infrastructure
+- Web3 Frontend Development
+- Full Stack Financial Applications
+
+I combine strong blockchain engineering experience with solid Web2 development knowledge and a teaching background in programming, mathematics and software engineering.
+
+---
+
+# ⚡ Blockchain & Smart Contract Stack
+
+### Smart Contract Development
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=solidity" height="45" alt="solidity"/>
+<img src="https://cryptologos.cc/logos/ethereum-eth-logo.png?v=040" height="45" alt="ethereum"/>
+<img src="https://avatars.githubusercontent.com/u/99892494?s=200&v=4" height="45" alt="foundry"/>
+<img src="https://seeklogo.com/images/H/hardhat-logo-888739EBB4-seeklogo.com.png" height="45" alt="hardhat"/>
+<img src="https://trufflesuite.com/img/truffle-logo-dark.svg" height="45" alt="truffle"/>
+<img src="https://avatars.githubusercontent.com/u/99892494?s=200&v=4" height="45" alt="forge"/>
 </p>
 
-****
+`Solidity` • `Ethereum` • `ERC20` • `ERC721` • `Foundry` • `Hardhat` • `Truffle`
 
-********
-<p align="left"> <a href="https://mui.com/" target="_blank"> <img src="https://user-images.githubusercontent.com/58791994/181413029-2fa2600b-c7a5-4270-a09a-eac363e18077.png" alt="MaterialUI" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://www.python.org/" target="_blank"> <img src="./python_18894.ico" alt="Python" width="40" height="40"/> </a> <a href="https://rubyinstaller.org/" target="_blank"> <img src="https://user-images.githubusercontent.com/58791994/135737780-771fa5bf-51d0-45eb-a024-79b3fe113e0f.png" alt="Python" width="40" height="40"/> </a> <a href="https://rubyonrails.org/" target="_blank"> <img src="https://user-images.githubusercontent.com/58791994/135738150-818e4477-403c-4705-87f0-f3e8d096ddaf.png" alt="Python" width="40" height="40"/> </a> <a href="https://sequelize.org/" target="_blank"> <img src="https://user-images.githubusercontent.com/58791994/181413855-b4e51890-cd64-405e-9c64-6f6f87d65f35.png" alt="c" width="40" height="40"/> </a> <a href="https://github.com/" target="_blank"> <img src="https://user-images.githubusercontent.com/58791994/181414029-347e486c-cd9e-487d-99a2-5fa2f2f8bd6f.png" alt="c" width="40" height="40"/> </a><a href="https://about.gitlab.com/" target="_blank"> <img src="https://user-images.githubusercontent.com/58791994/181414113-90325815-33a2-4931-af4b-1d95a4e1e5b1.png" alt="c" width="40" height="40"/> </a> <a href="https://solidity-es.readthedocs.io/es/latest/" target="_blank"> <img src="https://user-images.githubusercontent.com/58791994/181414516-34e5ab7e-9137-4be8-89bf-4bb33d88ac32.png" alt="c" width="40" height="40"/> </a><a href="https://hardhat.org/" target="_blank"> <img src="https://user-images.githubusercontent.com/58791994/181414572-9ecb483d-b3f7-4dd9-a148-ef812493bec7.png" alt="c" width="40" height="40"/> </a><a href="https://trufflesuite.com/" target="_blank"> <img src="https://user-images.githubusercontent.com/58791994/181414601-654b73af-3c45-4256-8531-57004c80fa7f.png" alt="c" width="40" height="40"/> </a><a href="https://web3js.readthedocs.io/en/v1.7.4/" target="_blank"> <img src="https://user-images.githubusercontent.com/58791994/181414651-f18560dc-a85b-442b-b61a-92cd2521a5dd.png" alt="c" width="40" height="40"/> </a><a href="https://docs.ethers.io/v5/" target="_blank"> <img src="https://user-images.githubusercontent.com/58791994/181414677-301cb5ec-63df-4b71-a480-52659f1d3fa3.png" alt="c" width="40" height="40"/> </a><a href="https://www.chaijs.com/" target="_blank"> <img src="https://user-images.githubusercontent.com/58791994/181414718-c285ab7f-8720-4d7a-b72e-52689ad8d500.png" alt="c" width="40" height="40"/> </a><a href="https://mochajs.org/" target="_blank"> <img src="https://user-images.githubusercontent.com/58791994/181414752-5255c059-1410-439d-a8d2-99305a96ebdb.png" alt="c" width="40" height="40"/> </a> <a href="https://ipfs.io/" target="_blank"> <img src="https://user-images.githubusercontent.com/58791994/181414770-45756ae6-3b79-41df-9bca-fb29e01a44ca.png" alt="c" width="40" height="40"/> </a> <a href="https://www.openzeppelin.com/" target="_blank"> <img src="https://user-images.githubusercontent.com/58791994/181414823-1fc39b37-564f-4159-9903-a9b2ad8c8c11.png" alt="c" width="40" height="40"/> </a><a href="https://remix-project.org/" target="_blank"> <img src="https://user-images.githubusercontent.com/58791994/181414892-37c9c5db-dead-4301-8412-5d0bbde22fd3.png" alt="c" width="40" height="40"/> </a></p>
+---
+
+### Smart Contract Security
+
+<p align="left">
+<img src="https://avatars.githubusercontent.com/u/4543652?s=200&v=4" height="45" alt="openzeppelin"/>
+<img src="https://avatars.githubusercontent.com/u/5430905?s=200&v=4" height="45" alt="security"/>
+</p>
+
+`OpenZeppelin`
+• `Slither`
+• `Aderyn`
+• `Fuzz Testing`
+• `Invariant Testing`
+• `Stateful Testing`
+• `Unit Testing`
+• `Integration Testing`
+
+---
+
+### Web3 Frontend
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=react" height="45"/>
+<img src="https://skillicons.dev/icons?i=typescript" height="45"/>
+<img src="https://skillicons.dev/icons?i=javascript" height="45"/>
+<img src="https://seeklogo.com/images/E/ethers-logo-D5B86204D8-seeklogo.com.png" height="45"/>
+<img src="https://seeklogo.com/images/W/web3-js-logo-62DEE79B50-seeklogo.com.png" height="45"/>
+<img src="https://avatars.githubusercontent.com/u/37784886?s=200&v=4" height="45"/>
+<img src="https://avatars.githubusercontent.com/u/97369466?s=200&v=4" height="45"/>
+<img src="https://seeklogo.com/images/M/metamask-logo-09EDE53DBD-seeklogo.com.png" height="45"/>
+</p>
+
+`React`
+• `TypeScript`
+• `JavaScript`
+• `Ethers.js`
+• `Web3.js`
+• `wagmi`
+• `viem`
+• `RainbowKit`
+• `MetaMask`
+• `IPFS`
+• `Chainlink`
+
+---
+
+# 💻 Full Stack Engineering
+
+Although my current specialization is blockchain and smart contract security, I also have strong experience building production applications using modern Web2 technologies.
+
+### Backend
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=nodejs" height="45"/>
+<img src="https://skillicons.dev/icons?i=express" height="45"/>
+<img src="https://skillicons.dev/icons?i=ruby" height="45"/>
+<img src="https://skillicons.dev/icons?i=rails" height="45"/>
+<img src="https://skillicons.dev/icons?i=postgres" height="45"/>
+<img src="https://sequelize.org/img/logo.svg" height="45"/>
+<img src="https://seeklogo.com/images/S/supabase-logo-DCC676FFE2-seeklogo.com.png" height="45"/>
+</p>
+
+`Node.js`
+• `Express`
+• `Ruby`
+• `Ruby on Rails`
+• `PostgreSQL`
+• `Sequelize`
+• `Supabase`
+
+---
+
+### Frontend
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=react" height="45"/>
+<img src="https://reactnative.dev/img/header_logo.svg" height="45"/>
+<img src="https://skillicons.dev/icons?i=redux" height="45"/>
+<img src="https://skillicons.dev/icons?i=tailwind" height="45"/>
+<img src="https://mui.com/static/logo.png" height="45"/>
+<img src="https://skillicons.dev/icons?i=html" height="45"/>
+<img src="https://skillicons.dev/icons?i=css" height="45"/>
+</p>
+
+`React`
+• `React Native`
+• `Redux`
+• `TailwindCSS`
+• `Material UI`
+• `HTML`
+• `CSS`
+
+---
+
+# 🧠 About Me
+
+I am passionate about continuous learning, software architecture and secure blockchain development.
+
+My mathematical background allows me to approach engineering problems with strong analytical thinking, logical reasoning and structured problem solving.
+
+I especially enjoy working on:
+
+- Smart Contract Security
+- DeFi Protocol Design
+- On-chain Financial Systems
+- Testing & Auditing Workflows
+- Secure Protocol Architecture
+- Web3 Infrastructure
+
+---
+
+# 👨‍🏫 Teaching & Mentoring Experience
+
+In addition to software engineering, I have extensive experience teaching programming and mathematics.
+
+I have worked as:
+
+- JavaScript Instructor
+- Teaching Lead
+- Programming Mentor
+- Mathematics & Physics Teacher
+
+I have taught and mentored more than **5,000 students** in areas such as:
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=javascript" height="45"/>
+<img src="https://skillicons.dev/icons?i=python" height="45"/>
+<img src="https://skillicons.dev/icons?i=solidity" height="45"/>
+<img src="https://skillicons.dev/icons?i=cpp" height="45"/>
+</p>
+
+`JavaScript`
+• `Python`
+• `Solidity`
+• `Programming Logic`
+• `Mathematics`
+• `Physics`
+• `Full Stack Development`
+
+Teaching has strengthened my communication, leadership and problem-solving skills, helping me explain complex technical concepts clearly and effectively.
+
+---
+
+# 🚀 Current Focus
+
+```solidity
+contract CurrentFocus {
+    string[] public areas = [
+        "Smart Contract Security",
+        "DeFi Protocols",
+        "Foundry Testing",
+        "Invariant & Fuzz Testing",
+        "Governance Systems",
+        "Vault Architecture",
+        "Treasury Infrastructure",
+        "Secure Solidity Development"
+    ];
+}
+```
 
 <hr/>
 
