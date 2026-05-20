@@ -203,6 +203,44 @@ A selection of blockchain, DeFi and full stack applications focused on smart con
 
 ---
 
+# 🏥 Investment Armendariz — Blockchain Investment Platform
+
+<p align="center">
+  <a href="https://github.com/andresf2448/Dao-Investment-J-Y" target="_blank">
+    <img src="https://img.shields.io/badge/View-Repository-2ea44f?style=for-the-badge&logo=github"/>
+  </a>
+</p>
+
+Implementation of a DeFi platform focused on governance, vault infrastructure, treasury systems, and on-chain operational controls, contributing across smart contracts, frontend architecture, and protocol security.
+
+### ⚙️ Features
+
+- Smart contract development in Solidity
+- Vault architecture and governance systems
+- Modular frontend implementation using React and TypeScript
+- Web3 integration and hook-based frontend architecture
+- Treasury systems and operational control development
+- Unit testing, fuzzing, stateful and stateless testing
+- Security analysis using Slither and Aderyn
+- Protocol architecture optimization, maintainability, and scalability improvements
+
+### 🛠 Tech Stack
+
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Ethers.js](https://img.shields.io/badge/Ethers.js-2535A0?style=for-the-badge&logo=ethers&logoColor=white)
+![OpenZeppelin](https://img.shields.io/badge/OpenZeppelin-4E5EE4?style=for-the-badge&logo=openzeppelin&logoColor=white)
+![Viem](https://img.shields.io/badge/Viem-000000?style=for-the-badge&logo=viem&logoColor=white)
+![Foundry](https://img.shields.io/badge/Foundry-000000?style=for-the-badge&logo=forge&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![RainbowKit](https://img.shields.io/badge/RainbowKit-FF007A?style=for-the-badge&logo=rainbow&logoColor=white)
+
+<p align="center">
+<img width="40%" height="30%" alt="Captura desde 2026-05-19 20-53-05" src="https://github.com/user-attachments/assets/8e89b890-9869-443a-9cb0-d897a3ca7063" />
+</p>
+
+---
+
 # 🏥 Health System — Blockchain Healthcare Platform
 
 <p align="center">
