@@ -1,197 +1,208 @@
-<img width="1400" height="349" alt="Perfil superior" src="https://github.com/user-attachments/assets/097998f3-b40b-4c02-94b6-dad34069e066" />
+<img width="1400" alt="Banner" src="https://github.com/user-attachments/assets/097998f3-b40b-4c02-94b6-dad34069e066" />
 
-<h1 align="center">Hello, I'm Andrés Felipe Velásquez Trujillo 👋</h1>
+<h1 align="center">Hi, I'm Andrés Felipe Velásquez Trujillo 👋</h1>
 
 <h3 align="center">
-Blockchain Engineer | Solidity Smart Contract Developer | DeFi & Smart Contract Security
+Full Stack Engineer | React Native • NestJS • Ruby on Rails • Fintech • Blockchain & Web3
 </h3>
 
 <p align="center">
-Mathematician • Full Stack Web3 Engineer • Smart Contract Security Researcher
+Mathematician • Mobile Engineer • Backend Engineer • Blockchain Developer
 </p>
 
 ---
 
-I am a **Blockchain-focused Full Stack Engineer** and **Mathematician** specialized in building secure decentralized applications, smart contracts and financial systems.
+## 🚀 About Me
 
-My main focus is on:
+I'm a **Senior Full Stack Engineer** and **Mathematician** with experience building fintech platforms, mobile applications, backend services, and blockchain solutions.
 
-- Solidity Smart Contracts
-- DeFi Protocols
-- Smart Contract Security
-- Governance Systems
-- Vault & Treasury Infrastructure
-- Web3 Frontend Development
-- Full Stack Financial Applications
+Throughout my career, I've worked on:
 
-I combine strong blockchain engineering experience with solid Web2 development knowledge and a teaching background in programming, mathematics and software engineering.
+- Fintech platforms and payment systems
+- Mobile applications with React Native
+- Scalable backend architectures with NestJS and Node.js
+- Blockchain and Web3 applications
+- Smart contract integrations
+- REST APIs and distributed systems
+- Health analytics and wearable integrations
 
----
-
-# ⚡ Blockchain & Smart Contract Stack
-
-### Smart Contract Development
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=solidity" height="45" alt="solidity"/>
-<img src="https://cryptologos.cc/logos/ethereum-eth-logo.png?v=040" height="45" alt="ethereum"/>
-<img src="https://avatars.githubusercontent.com/u/99892494?s=200&v=4" height="45" alt="foundry"/>
-<img src="https://seeklogo.com/images/H/hardhat-logo-888739EBB4-seeklogo.com.png" height="45" alt="hardhat"/>
-<img src="https://trufflesuite.com/img/truffle-logo-dark.svg" height="45" alt="truffle"/>
-<img src="https://avatars.githubusercontent.com/u/99892494?s=200&v=4" height="45" alt="forge"/>
-</p>
-
-<div align="center">
-
-`Solidity` • `Ethereum` • `ERC20` • `ERC721` • `Foundry` • `Hardhat` • `Truffle`
-
-</div>
-
----
-
-### Smart Contract Security
-
-<p align="center">
-<img src="https://avatars.githubusercontent.com/u/4543652?s=200&v=4" height="45" alt="openzeppelin"/>
-<img src="https://avatars.githubusercontent.com/u/5430905?s=200&v=4" height="45" alt="security"/>
-</p>
-
-<div align="center">
-
-`OpenZeppelin` • `Slither` • `Aderyn` • `Fuzz Testing` • `Invariant Testing` • `Stateful Testing` • `Unit Testing` • `Integration Testing`
-
-</div>
-
----
-
-### Web3 Frontend
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=react" height="45"/>
-<img src="https://skillicons.dev/icons?i=typescript" height="45"/>
-<img src="https://skillicons.dev/icons?i=javascript" height="45"/>
-<img src="https://seeklogo.com/images/E/ethers-logo-D5B86204D8-seeklogo.com.png" height="45"/>
-<img src="https://seeklogo.com/images/W/web3-js-logo-62DEE79B50-seeklogo.com.png" height="45"/>
-<img src="https://avatars.githubusercontent.com/u/37784886?s=200&v=4" height="45"/>
-<img src="https://avatars.githubusercontent.com/u/97369466?s=200&v=4" height="45"/>
-<img src="https://seeklogo.com/images/M/metamask-logo-09EDE53DBD-seeklogo.com.png" height="45"/>
-</p>
-
-<div align="center">
-
-`React` • `TypeScript` • `JavaScript` • `Ethers.js` • `Web3.js` • `wagmi` • `viem` • `RainbowKit` • `MetaMask` • `IPFS` • `Chainlink`
-
-</div>
+My background in Mathematics allows me to approach software engineering with strong analytical thinking, structured problem-solving, and system design principles.
 
 ---
 
 # 💻 Full Stack Engineering
 
-Although my current specialization is blockchain and smart contract security, I also have strong experience building production applications using modern Web2 technologies.
-
-### Backend
+## Frontend & Mobile
 
 <p align="center">
+<img src="https://skillicons.dev/icons?i=react" height="45"/>
+<img src="https://reactnative.dev/img/header_logo.svg" height="45"/>
+<img src="https://skillicons.dev/icons?i=typescript" height="45"/>
+<img src="https://skillicons.dev/icons?i=javascript" height="45"/>
+<img src="https://skillicons.dev/icons?i=redux" height="45"/>
+<img src="https://skillicons.dev/icons?i=tailwind" height="45"/>
+</p>
+
+<div align="center">
+
+`React`
+•
+`React Native`
+•
+`TypeScript`
+•
+`JavaScript`
+•
+`Redux`
+•
+`TailwindCSS`
+
+</div>
+
+---
+
+## Backend
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=nestjs" height="45"/>
 <img src="https://skillicons.dev/icons?i=nodejs" height="45"/>
 <img src="https://skillicons.dev/icons?i=express" height="45"/>
 <img src="https://skillicons.dev/icons?i=ruby" height="45"/>
 <img src="https://skillicons.dev/icons?i=rails" height="45"/>
 <img src="https://skillicons.dev/icons?i=postgres" height="45"/>
-<img src="https://sequelize.org/img/logo.svg" height="45"/>
-<img src="https://seeklogo.com/images/S/supabase-logo-DCC676FFE2-seeklogo.com.png" height="45"/>
 </p>
 
 <div align="center">
 
-`Node.js` • `Express` • `Ruby` • `Ruby on Rails` • `PostgreSQL` • `Sequelize` • `Supabase`
+`NestJS`
+•
+`Node.js`
+•
+`Express`
+•
+`Ruby on Rails`
+•
+`PostgreSQL`
+•
+`REST APIs`
 
 </div>
 
 ---
 
-### Frontend
+# ⛓️ Blockchain & Web3
+
+## Smart Contracts & Infrastructure
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=react" height="45"/>
-<img src="https://reactnative.dev/img/header_logo.svg" height="45"/>
-<img src="https://skillicons.dev/icons?i=redux" height="45"/>
-<img src="https://skillicons.dev/icons?i=tailwind" height="45"/>
-<img src="https://mui.com/static/logo.png" height="45"/>
-<img src="https://skillicons.dev/icons?i=html" height="45"/>
-<img src="https://skillicons.dev/icons?i=css" height="45"/>
+<img src="https://skillicons.dev/icons?i=solidity" height="45"/>
+<img src="https://cryptologos.cc/logos/ethereum-eth-logo.png?v=040" height="45"/>
+<img src="https://avatars.githubusercontent.com/u/99892494?s=200&v=4" height="45"/>
+<img src="https://seeklogo.com/images/H/hardhat-logo-888739EBB4-seeklogo.com.png" height="45"/>
 </p>
 
 <div align="center">
 
-`React` • `React Native` • `Redux` • `TailwindCSS` • `Material UI` • `HTML` • `CSS`
+`Solidity`
+•
+`Ethereum`
+•
+`Foundry`
+•
+`Hardhat`
+•
+`ERC20`
+•
+`ERC721`
 
 </div>
 
 ---
 
-# 🧠 About Me
+## Web3 Frontend
 
-I am passionate about continuous learning, software architecture and secure blockchain development.
+<div align="center">
 
-My mathematical background allows me to approach engineering problems with strong analytical thinking, logical reasoning and structured problem solving.
+`Ethers.js`
+•
+`wagmi`
+•
+`viem`
+•
+`RainbowKit`
+•
+`MetaMask`
+•
+`Chainlink`
 
-I especially enjoy working on:
-
-- Smart Contract Security
-- DeFi Protocol Design
-- On-chain Financial Systems
-- Testing & Auditing Workflows
-- Secure Protocol Architecture
-- Web3 Infrastructure
+</div>
 
 ---
 
-# 👨‍🏫 Teaching & Mentoring Experience
+# 🏢 Professional Experience
 
-In addition to software engineering, I have extensive experience teaching programming and mathematics.
+### Vitality+
+
+**Full Stack Developer**
+
+- React Native mobile applications
+- NestJS backend services
+- Health analytics
+- Wearable integrations
+- Wellness scoring systems
+
+### Vita Wallet
+
+**Full Stack Developer**
+
+- Fintech applications
+- Banking integrations
+- Payment systems
+- Blockchain services
+- Financial APIs
+
+### Investment Armendariz
+
+**Frontend & Blockchain Engineer**
+
+- Web3 applications
+- Smart contract integrations
+- DeFi infrastructure
+- Blockchain frontend architecture
+
+---
+
+# 👨‍🏫 Teaching & Mentoring
 
 I have worked as:
 
 - JavaScript Instructor
 - Teaching Lead
 - Programming Mentor
-- Mathematics & Physics Teacher
+- Mathematics Instructor
 
-I have taught and mentored more than **5,000 students** in areas such as:
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=javascript" height="45"/>
-<img src="https://skillicons.dev/icons?i=python" height="45"/>
-<img src="https://skillicons.dev/icons?i=solidity" height="45"/>
-<img src="https://skillicons.dev/icons?i=cpp" height="45"/>
-</p>
-
-<div align="center">
-
-`JavaScript` • `Python` • `Solidity` • `Programming Logic` • `Mathematics` • `Physics` • `Full Stack Development`
-
-</div>
-
-Teaching has strengthened my communication, leadership and problem-solving skills, helping me explain complex technical concepts clearly and effectively.
+Over the years, I have mentored and taught more than **5,000 students** in software engineering, mathematics, and programming.
 
 ---
 
-# 🚀 Current Focus
+# 🎯 Current Focus
 
-```solidity
-contract CurrentFocus {
-    string[] public areas = [
-        "Smart Contract Security",
-        "DeFi Protocols",
-        "Foundry Testing",
-        "Invariant & Fuzz Testing",
-        "Governance Systems",
-        "Vault Architecture",
-        "Treasury Infrastructure",
-        "Secure Solidity Development"
-    ];
-}
-```
+- React Native Architecture
+- NestJS Backend Systems
+- Fintech Infrastructure
+- Blockchain & Web3 Applications
+- Smart Contract Security
+- DeFi Protocols
+- System Design
+- High-Performance APIs
+
+---
+
+## 📫 Connect With Me
+
+- LinkedIn: linkedin.com/in/andresvelasqueztrujillo
+- GitHub: github.com/andresf2448
+- Email: andresf2448@gmail.com
 
 <hr/>
 
