@@ -1,4 +1,5 @@
-<img width="1774" height="887" alt="ChatGPT Image 14 jun 2026, 00_07_00" src="https://github.com/user-attachments/assets/28003677-d221-445d-94de-f871788d35bc" />
+<img width="1983" height="793" alt="ChatGPT Image 24 jun 2026, 14_34_32" src="https://github.com/user-attachments/assets/d6030e69-3bb2-4e9b-a551-48a875f2ec95" />
+
 
 <h1 align="center">Hi, I'm Andrés Felipe Velásquez Trujillo 👋</h1>
 
