@@ -1,42 +1,102 @@
 <img width="1584" height="396" alt="linkedin-cover-1584x396" src="https://github.com/user-attachments/assets/3fa12718-8b67-4b79-b4a6-71542d6e202b" />
 
-
 <h1 align="center">Hi, I'm Andrés Felipe Velásquez Trujillo 👋</h1>
 
 <h3 align="center">
-Full Stack Engineer | React Native • NestJS • Ruby on Rails • Fintech • Blockchain & Web3
+Ruby on Rails Developer | Backend & Full Stack (React, Next.js) | Fintech | AI-Augmented Engineering
 </h3>
 
 <p align="center">
-Mathematician • Mobile Engineer • Backend Engineer • Blockchain Developer
+Mathematician • Backend Engineer • Full Stack Developer • Blockchain Developer
+</p>
+
+<p align="center">
+<sub>AI-augmented engineering in daily practice — Claude Code • Codex • RAG • MCP</sub>
 </p>
 
 ---
 
 ## 🚀 About Me
 
-I'm a **Senior Full Stack Engineer** and **Mathematician** with experience building fintech platforms, mobile applications, backend services, and blockchain solutions.
+I'm a **Ruby on Rails developer** with **4+ years building fintech systems at scale**, and a **Mathematician** by training — increasingly focused on the AI-augmented workflows that make that work faster.
 
-Throughout my career, I've worked on:
-
-- Fintech platforms and payment systems
-- Mobile applications with React Native
-- Scalable backend architectures with NestJS and Node.js
-- Blockchain and Web3 applications
-- Smart contract integrations
-- REST APIs and distributed systems
-- Health analytics and wearable integrations
+- **4.5 years** as backend owner at **Vita Wallet**, building the Active Record data models, Sidekiq background jobs, and Redis-backed infrastructure behind a platform that scaled to **$2B+ USD in processed transfers** — payment provider integrations across countries, exchange integrations with Binance and Circle, and batch payroll for crypto and fiat.
+- More recently, **Web3**: building and auditing **28 Solidity smart contracts** for a DeFi governance protocol, catching reentrancy and denial-of-service vulnerabilities with Slither and Aderyn, and testing with Foundry.
+- **Full stack when the product needs it** — React, Next.js (App Router), TypeScript — comfortable owning a feature end to end, though backend is where I go deepest.
+- A **Mathematics degree** (Universidad de Antioquia, first-place thesis defense in Mathematical Logic) shapes how I break problems down. Also spent **4+ years teaching Full Stack and Blockchain to ~20,000 students across ~80 cohorts**.
 
 My background in Mathematics allows me to approach software engineering with strong analytical thinking, structured problem-solving, and system design principles.
 
 ---
 
+# 🤖 AI-Augmented Engineering
+
+Using AI tooling daily as part of how I actually ship — not a novelty, but consistent practice across fintech, DeFi, and health-tech engagements.
+
+<p align="center">
+<img src="https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Codex-000000?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/RAG-4B0082?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/MCP-2ea44f?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Pinecone-000000?style=for-the-badge"/>
+</p>
+
+- Custom agents, skills, commands, and git worktrees for parallel development with **Claude Code**
+- **Codex** as part of the daily workflow across backend, frontend, and smart contract work
+- Built a **RAG pipeline with Pinecone** for internal knowledge retrieval
+- Connected agents to real systems via **MCP** to accelerate research, implementation, debugging, and security review
+
+---
+
 # 💻 Full Stack Engineering
+
+## Backend
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=rails" height="45"/>
+<img src="https://skillicons.dev/icons?i=ruby" height="45"/>
+<img src="https://skillicons.dev/icons?i=nestjs" height="45"/>
+<img src="https://skillicons.dev/icons?i=nodejs" height="45"/>
+<img src="https://skillicons.dev/icons?i=express" height="45"/>
+<img src="https://skillicons.dev/icons?i=postgres" height="45"/>
+<img src="https://skillicons.dev/icons?i=redis" height="45"/>
+</p>
+
+<div align="center">
+
+`Ruby on Rails`
+•
+`Ruby`
+•
+`Active Record`
+•
+`Sidekiq`
+•
+`RSpec`
+•
+`FactoryBot`
+•
+`NestJS`
+•
+`Node.js`
+•
+`Express`
+•
+`PostgreSQL`
+•
+`Redis`
+•
+`REST APIs`
+
+</div>
+
+---
 
 ## Frontend & Mobile
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=react" height="45"/>
+<img src="https://skillicons.dev/icons?i=nextjs" height="45"/>
 <img src="https://reactnative.dev/img/header_logo.svg" height="45"/>
 <img src="https://skillicons.dev/icons?i=typescript" height="45"/>
 <img src="https://skillicons.dev/icons?i=javascript" height="45"/>
@@ -48,6 +108,8 @@ My background in Mathematics allows me to approach software engineering with str
 
 `React`
 •
+`Next.js`
+•
 `React Native`
 •
 `TypeScript`
@@ -57,35 +119,6 @@ My background in Mathematics allows me to approach software engineering with str
 `Redux`
 •
 `TailwindCSS`
-
-</div>
-
----
-
-## Backend
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=nestjs" height="45"/>
-<img src="https://skillicons.dev/icons?i=nodejs" height="45"/>
-<img src="https://skillicons.dev/icons?i=express" height="45"/>
-<img src="https://skillicons.dev/icons?i=ruby" height="45"/>
-<img src="https://skillicons.dev/icons?i=rails" height="45"/>
-<img src="https://skillicons.dev/icons?i=postgres" height="45"/>
-</p>
-
-<div align="center">
-
-`NestJS`
-•
-`Node.js`
-•
-`Express`
-•
-`Ruby on Rails`
-•
-`PostgreSQL`
-•
-`REST APIs`
 
 </div>
 
@@ -115,6 +148,10 @@ My background in Mathematics allows me to approach software engineering with str
 `ERC20`
 •
 `ERC721`
+•
+`Slither`
+•
+`Aderyn`
 
 </div>
 
@@ -144,58 +181,79 @@ My background in Mathematics allows me to approach software engineering with str
 
 ### Vitality+
 
-**Full Stack Developer**
+**Full Stack Developer** · Contract · Jun 2026 – Aug 2026 · Zurich, Switzerland
 
-- React Native mobile applications
-- NestJS backend services
-- Health analytics
-- Wearable integrations
-- Wellness scoring systems
-
-### Vita Wallet
-
-**Full Stack Developer**
-
-- Fintech applications
-- Banking integrations
-- Payment systems
-- Blockchain services
-- Financial APIs
+- Built wearable and AI-powered health features for a wellness platform, integrating Google Health, Google Calendar, Whoop, and Oura
+- Delivered mobile features with React Native and Expo, backed by a NestJS API
+- Used Claude Code (custom agents, git worktrees, skills, commands) to accelerate delivery across a fast-moving mobile and backend codebase
 
 ### Investment Armendariz
 
-**Frontend & Blockchain Engineer**
+**Full Stack Web3 Blockchain Engineer** · Full-time · Dec 2025 – May 2026 · Remote
 
-- Web3 applications
-- Smart contract integrations
-- DeFi infrastructure
-- Blockchain frontend architecture
+- Built and audited **28 Solidity smart contracts** covering vault logic, governance mechanisms, and treasury operations for a DeFi governance protocol
+- Identified and mitigated reentrancy and denial-of-service vulnerabilities using Slither and Aderyn; wrote unit, fuzz, and stateful test suites in Foundry
+- Built the protocol frontend with React, TypeScript, wagmi, viem, and RainbowKit, plus an internal admin backend in Ruby on Rails with a Hotwire (Turbo + Stimulus) dashboard
+- Implemented a RAG pipeline with Pinecone for internal knowledge retrieval, and used Claude Code, Codex, and MCP across the stack
+
+### Vita Wallet
+
+**Full Stack Developer (Fintech & Crypto Integrations)** · Full-time · Aug 2021 – Nov 2025 · Chile · Remote
+
+- Owned core Ruby on Rails backend architecture — Active Record data modeling, Sidekiq background jobs, Redis caching — for a platform that scaled to **$2B+ USD in processed transfers**
+- Built payment provider integrations across multiple countries, exchange integrations with Binance and Circle, and batch payment infrastructure for crypto and fiat payroll
+- Maintained test suites with RSpec and FactoryBot to support high-availability standards for sensitive financial operations; React and React Native on the frontend/mobile side
+
+### Freelancer.com
+
+**Full Stack & Blockchain Developer (Rails, React, Solidity)** · Freelance · Jul 2021 – May 2026 · Remote
+
+- Delivered full-stack and blockchain projects across warehouse management systems, a blockchain-based healthcare platform, NFT marketplaces, decentralized voting systems, and blockchain lotteries — in parallel with full-time roles over 4+ years
+- Built Ruby on Rails REST APIs with PostgreSQL for user management, wallet associations, and NFT metadata
+- Developed Solidity smart contracts (ERC-20/ERC-721) using OpenZeppelin standards, with dApp frontends in React.js and Web3.js/Ethers.js/MetaMask integration
+
+### Coderhouse
+
+**Full Stack & Blockchain Programming Instructor** · Contract · Jan 2020 – Jun 2024 · Remote
+
+- Designed and delivered technical curriculum covering React, Node.js, PostgreSQL, REST APIs, and blockchain fundamentals to **~20,000 students across ~80 cohorts**
+- Created and led an intensive Python course (60 hours over 4 months) from foundations to advanced level, including data fundamentals for machine learning
+
+### Universidad de Antioquia
+
+**Mathematics & Physics Instructor** · Part-time · Feb 2015 – Jun 2021 · Colombia
+
+- Taught mathematics, physics, logic, and problem-solving for high school, pre-university, and university admissions-test preparation across Universidad de Antioquia (UdeA), UPET, and Corporación Polisocial
 
 ---
 
 # 👨‍🏫 Teaching & Mentoring
 
-I have worked as:
+- **~20,000 students** across **~80 cohorts** in Full Stack Development and Blockchain (Coderhouse)
+- **6+ years** teaching Mathematics, Physics, and logic for academic and university admissions-test preparation (Universidad de Antioquia, UPET, Corporación Polisocial)
+- Created and led an intensive Python course covering machine learning data fundamentals
 
-- JavaScript Instructor
-- Teaching Lead
-- Programming Mentor
-- Mathematics Instructor
+---
 
-Over the years, I have mentored and taught more than **5,000 students** in software engineering, mathematics, and programming.
+# 🎓 Education
+
+- **Universidad de Antioquia** — B.Sc. in Mathematics · First-place thesis defense in Mathematical Logic
+- **Cyfrin Updraft** — Smart Contract Security | Blockchain Engineer | Solidity Security
+- **Henry** — Full Stack Developer bootcamp (700+ hours — React, Redux, Node.js, Express, PostgreSQL)
+- **Platzi** — Blockchain & Cryptocurrency School (Solidity, Ethereum, dApps, DeFi)
+- **London School of Commerce** — English Language and Literature
+- **Anyone AI** — AI Engineer / Machine Learning Developer *(in progress)*
 
 ---
 
 # 🎯 Current Focus
 
-- React Native Architecture
-- NestJS Backend Systems
-- Fintech Infrastructure
-- Blockchain & Web3 Applications
-- Smart Contract Security
-- DeFi Protocols
-- System Design
-- High-Performance APIs
+- Ruby on Rails Backend Architecture
+- Fintech Infrastructure & Payment Systems
+- AI-Augmented Engineering (Claude Code, Codex, RAG, MCP)
+- Blockchain & Web3 Applications / Smart Contract Security
+- Full Stack Development (React, Next.js)
+- System Design & High-Performance APIs
 
 ---
 
@@ -218,9 +276,9 @@ A selection of blockchain, DeFi and full stack applications focused on smart con
 # 🏥 Investment Armendariz — Blockchain Investment Platform
 
 <p align="center">
-  <a href="https://github.com/andresf2448/Dao-Investment-J-Y" target="_blank">
-    <img src="https://img.shields.io/badge/View-Repository-2ea44f?style=for-the-badge&logo=github"/>
-  </a>
+<a href="https://github.com/andresf2448/Dao-Investment-J-Y" target="_blank">
+<img src="https://img.shields.io/badge/View-Repository-2ea44f?style=for-the-badge&logo=github"/>
+</a>
 </p>
 
 Implementation of a DeFi platform focused on governance, vault infrastructure, treasury systems, and on-chain operational controls, contributing across smart contracts, frontend architecture, and protocol security.
@@ -256,9 +314,9 @@ Implementation of a DeFi platform focused on governance, vault infrastructure, t
 # 🏥 Health System — Blockchain Healthcare Platform
 
 <p align="center">
-  <a href="https://github.com/andresf2448/Health_System_Full" target="_blank">
-    <img src="https://img.shields.io/badge/View-Repository-2ea44f?style=for-the-badge&logo=github"/>
-  </a>
+<a href="https://github.com/andresf2448/Health_System_Full" target="_blank">
+<img src="https://img.shields.io/badge/View-Repository-2ea44f?style=for-the-badge&logo=github"/>
+</a>
 </p>
 
 A decentralized healthcare platform built with Solidity smart contracts, allowing laboratories and users to interact through blockchain-based subscriptions and healthcare services.
@@ -290,9 +348,9 @@ A decentralized healthcare platform built with Solidity smart contracts, allowin
 # 🚀 Rocket Punk NFTs
 
 <p align="center">
-  <a href="https://github.com/andresf2448/rocket_punk" target="_blank">
-    <img src="https://img.shields.io/badge/View-Repository-2ea44f?style=for-the-badge&logo=github"/>
-  </a>
+<a href="https://github.com/andresf2448/rocket_punk" target="_blank">
+<img src="https://img.shields.io/badge/View-Repository-2ea44f?style=for-the-badge&logo=github"/>
+</a>
 </p>
 
 NFT platform where users can mint, manage and transfer ERC721 NFTs directly on-chain.
@@ -324,9 +382,9 @@ NFT platform where users can mint, manage and transfer ERC721 NFTs directly on-c
 # 🗳 Decentralized Voting System
 
 <p align="center">
-  <a href="https://github.com/andresf2448/sytem_voting_full" target="_blank">
-    <img src="https://img.shields.io/badge/View-Repository-2ea44f?style=for-the-badge&logo=github"/>
-  </a>
+<a href="https://github.com/andresf2448/sytem_voting_full" target="_blank">
+<img src="https://img.shields.io/badge/View-Repository-2ea44f?style=for-the-badge&logo=github"/>
+</a>
 </p>
 
 Blockchain voting application designed to guarantee transparency, immutability and one-vote-per-user participation.
@@ -358,9 +416,9 @@ Blockchain voting application designed to guarantee transparency, immutability a
 # 🎰 Lottery DApp
 
 <p align="center">
-  <a href="https://github.com/andresf2448/system_lotery_full" target="_blank">
-    <img src="https://img.shields.io/badge/View-Repository-2ea44f?style=for-the-badge&logo=github"/>
-  </a>
+<a href="https://github.com/andresf2448/system_lotery_full" target="_blank">
+<img src="https://img.shields.io/badge/View-Repository-2ea44f?style=for-the-badge&logo=github"/>
+</a>
 </p>
 
 A decentralized lottery system where users can purchase tickets, interact with token rewards and participate in on-chain winner selection.
@@ -391,9 +449,9 @@ A decentralized lottery system where users can purchase tickets, interact with t
 # 💱 RocketXChange
 
 <p align="center">
-  <a href="https://github.com/andresf2448/Exchange-ProyectoFinal" target="_blank">
-    <img src="https://img.shields.io/badge/View-Repository-2ea44f?style=for-the-badge&logo=github"/>
-  </a>
+<a href="https://github.com/andresf2448/Exchange-ProyectoFinal" target="_blank">
+<img src="https://img.shields.io/badge/View-Repository-2ea44f?style=for-the-badge&logo=github"/>
+</a>
 </p>
 
 Exchange platform connected to the Stellar blockchain network for fiat and cryptocurrency asset trading.
